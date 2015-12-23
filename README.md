@@ -1,5 +1,4 @@
-This is the source code for www.tosdr.org. You should
-find more information about the project itself on the website.
+Codigo fuente de www.tosdr.org español. 
 
 <!--Overview
 ========
@@ -17,27 +16,27 @@ The data specification is available [on the wiki][wiki].
 [wiki]: https://github.com/tosdr/tosdr.org/wiki
 
 
-Clone this repository
+Clonar el repositorio
 =====================
 
-There are git submodules in this repository. To automatically have them all, clone this repository with the `git clone --recursive` option.
+Hay submodulos en el repositorio. Para tenerlos todos, clona el repositorio con la opcion de recursividad 'git clone --recursive'.
 
 Build
 =====
-Most of the website's source files are located in the `src/` directory (although unfortunately some of it is still intermingled with the build files). 
+La mayor parte de los codigo fuente de las paginas web estan en 'src/' (Aun hay algun archivo fuera de aqui).
 
-To build:
+ build:
 
-1. Make sure you have the git [submodule](http://www.git-scm.com/book/en/Git-Tools-Submodules) in the `dist/` folder and that it is up-to-date (i.e. by running `git submodule add https://github.com/tosdr/tosdr.org.git dist` and `cd dist && git pull`).
+1. Asegurate de tener los submodulos en la carpeta 'dist/' y que esta al dia (i.e. ejecutando 'git submodule add https://github.com/tosdr/tosdr.org.git dist' y 'cd dist && git pull').
 
-    The source files are used to generate the content of the [tosdr.org repository](https://github.com/tosdr/tosdr.org), generated in the `dist/` folder. 
+    Los codigos fuente son usados para generar el contenido del repositorio [tosdr.org](https://github.com/tosdr/tosdr.org), generado en 'dist/'. 
 
-2. Run `npm install` in the root of this repository to make sure you have the required packages.
-3. Make the changes you wish to make to the source files in this repository.
-4. Run `grunt` in the root of this repository.
-5. Check whether the output in the dist/ directory is looking as intended.
-6. Commit and push both repositories.
-7. To publish the new version of the website, assuming you have 5apps set up as a remote in the `dist/` folder, run `git push 5apps master`. But be careful: this updates the live site! Ask [@hugoroy] or [@michielbdejong] if you don't have permission
+2. ejecuta `npm install` en la raiz de este repositorio para asegurarte de que tienes todos los paquetes necesarios.
+3. Haz los cambios que desees a las fuentre de este repositorio.
+4. Ejecuta 'grunt' en la raiz de este repositorio.
+5. Comprueba que la salida en el directorio 'dist/' es como quieres.
+6. Commit y push ambos repositorios.
+7. Para publicar una nueva version de la pagina web, asumiendo que tienes 5 apps como remotas en 'dist/', ejecuta 'git push 5apps master'. Pero con cuidado: Estas actualizaciones son en directo sobre la pagina!!! Pregunta a [@hugoroy] o [@michielbdejong] si no tienes permisos.
 
 [@hugoroy]: https://github.com/hugoroy
 [@michielbdejong]: https://github.com/michielbdejong
@@ -64,17 +63,17 @@ These scripts are what I (Michiel) currently use for curating points after impor
 -->
 
 
-Develop other applications
+Desarollar otras aplicaciones
 ==========================
 
 API: http://www.tosdr.org/api.html 
 
-Also have a look at other apps, like the browser extensions: https://github.com/tosdr
+Mira tambien otras aplicaciones, como las extensiones del navegador: https://github.com/tosdr
 
 
-License
+Licencia
 ======
 
-AGPL-3.0+ (GNU Affero General Public License, version 3 or later)
+AGPL-3.0+ (GNU Affero General Public License, version 3 o superior)
 
-See <https://tosdr.org/legal.html> for more details on the legal aspects of the project.
+Mira <https://tosdr.org/legal.html> Para mas detalles legales del proyecto.
