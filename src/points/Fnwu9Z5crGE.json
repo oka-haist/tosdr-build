@@ -16,7 +16,7 @@
   "source": {
     "privacy": "http://soundcloud.com/pages/privacy"
   },
-  "title": "Little personal information is required",
+  "title": "Se requiere algo de informacion personal.",
   "topics": [
     "track"
   ],
@@ -26,6 +26,6 @@
     "point": "good",
     "reason": true,
     "score": 10,
-    "tldr": "You don't have to register for most of the services. Little personal information is required to register, you don't have to provide your real name unless it is for a Premium Account."
+    "tldr": "No tienes que registrarte para la mayor parte de nuestros servicios. Una pequeña cantidad de informacion es requerida para registrarse, no tienes que proporcionar tu verdadero nombre a no ser que sera una cuenta Premium."
   }
 }

@@ -15,15 +15,15 @@
   "source": {
     "terms": "http://www.google.com/intl/en/policies/terms/"
   },
-  "title": "Google may stop providing services to you at any time",
+  "title": "Google puede parar de prestar servicios en cualquier momento",
   "topics": [
     "suspension"
   ],
   "tosdr": {
     "binding": true,
-    "case": "they may stop providing the service at any time",
+    "case": "pueden parar de prestar el servicio en cualquier momento",
     "point": "bad",
     "score": 40,
-    "tldr": "“Google may also stop providing Services to you, or add or create new limits to our Services at any time.” Google has no obligation from the terms to give you notice in advance or to give a reason for that termination"
+    "tldr": "“Google puede también parar de prestarte servicios, o añadir o crear nuevas limitaciones para nuestros servicios en cualquier momento.” Google no tiene la obligación  por los términos de notificarte o darte una razón por ello"
   }
 }

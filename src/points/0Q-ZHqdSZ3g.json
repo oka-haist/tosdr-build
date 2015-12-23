@@ -4,15 +4,15 @@
   "services": [
     "twitter"
   ],
-  "title": "You can retrieve an archive of your data",
+  "title": "Puedes recuperar un archivo de tus datos",
   "topics": [
     "data-export"
   ],
   "tosdr": {
     "binding": true,
-    "case": "you can get your data back",
+    "case": "puedes obtener tus datos de nuevo",
     "point": "good",
     "score": 40,
-    "tldr": "There is a button in the account settings to retrieve an archive of all your tweets."
+    "tldr": "Hay un botón en las herramientas para obtener un archivo de todos tus tweets."
   }
 }

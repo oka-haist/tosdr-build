@@ -6,15 +6,15 @@
     "google"
   ],
   "source": "http://www.google.com/intl/en/policies/terms/",
-  "title": "Google keeps the rights on your content when you stop using it",
+  "title": "Google mantiene los derechos sobre tu contenido cuando paras de usarlo",
   "topics": [
     "leave"
   ],
   "tosdr": {
     "binding": true,
-    "case": "your content stays licensed",
+    "case": "tu contenido permanece licenciado",
     "point": "bad",
     "score": 25,
-    "tldr": "The license that you grant to Google on content you upload to their services will continue even if you stop using the services. While this makes sense for some services (e.g. Google Maps) this applies by default to all Google services. Otherwise you need to check each service for ways to remove content and for specific clauses that restrict the license in time."
+    "tldr": "La licencia que concedes a Google sobre el contenido que subes a sus servicios continuará incluso si tu paras de usar los servicios. Mientras esto tiene sentido para algunos servicios (e.g. Google Maps) es aplicado por defecto en todos los servicios de Google. De otra manera necesitas comprobar cada servicio parasaber como eliminar el contenido y las cláusulas específicas que restringen las licencias en el tiempo."
   }
 }

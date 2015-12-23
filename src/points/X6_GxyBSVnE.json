@@ -9,15 +9,15 @@
     "https://twitter.com/privacy",
     "https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#"
   ],
-  "title": "Twitter deletes tracking data in 10 days and offers an opt-out",
+  "title": "Twitter elimina el rastreo de datos en 10 días y ofrece un opt-out",
   "topics": [
     "track"
   ],
   "tosdr": {
     "binding": true,
-    "case": "tracking data deleted after 10 days and opt-out",
+    "case": "rastreando datos eliminados después de 10 días y opt-out",
     "point": "good",
     "score": 80,
-    "tldr": "Twitter widgets on third-party websites collect <a href='https://support.twitter.com/articles/20169421#' title='Tailored Suggestions'>data about you</a>. The data is kept a maximum of 10 days. Also, <strong>you can opt-out completely</strong> by enabling “Do-Not-Track”. <a href='https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#'>See how</a>."
+    "tldr": "Twitter widgets con sitios web terceros recogen <a href='https://support.twitter.com/articles/20169421#' title='Tailored Suggestions'>datos sobre ti</a>. El dato es mantenido un máximo de 10 días. También, <strong>puedes opt-out completamente</strong> deshabilitando “No-Rastreo”. <a href='https://support.twitter.com/groups/33-report-abuse-or-policy-violations/topics/148-policy-information/articles/20169453-twitter-supports-do-not-track#'>Mira cómo</a>."
   }
 }

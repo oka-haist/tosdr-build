@@ -6,7 +6,7 @@
     "twitter"
   ],
   "source": "https://twitter.com/tos",
-  "title": "Very broad copyright license on your content",
+  "title": "El copyright es muy amplio en tu contenido",
   "topics": [
     "copyright-scope"
   ],
@@ -15,6 +15,6 @@
     "case": "very broad",
     "point": "bad",
     "score": 80,
-    "tldr": "The copyright license is very broad with almost no limitations, which goes beyond the requirements to run the service. It includes right for Twitter to license to others (“sublicense”)."
+    "tldr": "El copyright es muy amplio con casi ninguna limitación, que va mas allá de los requisitos para ejecutar el servicio. Incluye  derechos para Twitter con licencias para otros (“sublicencia”)."
   }
 }

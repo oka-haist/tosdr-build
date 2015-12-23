@@ -15,15 +15,15 @@
   "source": {
     "terms": "http://www.google.com/intl/en/policies/terms/"
   },
-  "title": "Google enables you to get your information out when a service is discontinued",
+  "title": "Google te permite obteer tu informacion fuera cuando un servivio no continúa",
   "topics": [
-    "ownership"
+    "propiedad"
   ],
   "tosdr": {
     "binding": true,
-    "case": "they provide a way to export your data",
+    "case": "proporcionan una manera de exportar tus datos",
     "point": "good",
     "score": 30,
-    "tldr": "Google gives you reasonable advance notice when a service is discontinued and “a chance to get information out of that Service.”"
+    "tldr": "Google te da razonadamente noticias avanzadas cuando un servicio no continúa y “una opourtunidad de obtener fuera la información del servicio.”"
   }
 }

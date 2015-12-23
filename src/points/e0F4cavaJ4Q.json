@@ -9,15 +9,15 @@
     "https://twitter.com/tos",
     "https://twitter.com/privacy"
   ],
-  "title": "Twitter deletes your account after 30 days. It keeps the rights on your content. ",
+  "title": "Twitter elimina tu cuenta 30 dias después. Mantiene los derechos en tu contenido. ",
   "topics": [
     "leave"
   ],
   "tosdr": {
     "binding": true,
-    "case": "your content stays licensed",
+    "case": "tu contenido permanece con licencia",
     "point": "bad",
     "score": 25,
-    "tldr": "Even if you deactive your account or if your account is closed, Twitter still has all the rights on your Content (the copyright license survives termination).  However, after 30 days Twitter begins to delete your account."
+    "tldr": "Incluso si desactivas tu cuenta o si tu cuenta es cerrada, Twitter todavía tiene todos los derechos en tu cuenta(el copyright sobrevive al cierre).  Sin embargo, después de 30 días Twitter empieza a borrar tu cuenta."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "privacy": "http://soundcloud.com/pages/privacy#cookies"
   },
-  "title": "Use of cookies and third-party cookies (opt-out)",
+  "title": "Uso de cookies y de cookies de terceros.(opt-out)",
   "topics": [
     "cookies"
   ],
@@ -24,6 +24,6 @@
     "case": "third-party cookies, but with opt-out instructions",
     "point": "bad",
     "score": 5,
-    "tldr": "SoundCloud uses persistant cookies. They also have a limited set of third-party cookies: Google Analytics, Quantcast and ATInternet. Detailed information about <a href=\"http://soundcloud.com/pages/privacy#choices\">how to opt-out</a> is provided."
+    "tldr": "SoundCloud utiliza cookies persistentes. También tienen un conjunto limitado de las cookies de terceros: Google Analytics, Quantcast y ATInternet. Se proporciona la información detallada sobre <a href=\"http://soundcloud.com/pages/privacy#choices\"> cómo optar por no usarlas</a>."
   }
 }

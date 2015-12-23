@@ -7,16 +7,16 @@
     "twitter"
   ],
   "source": "http://www.twitter.com/privacy",
-  "title": "Third party cookies",
+  "title": "Cookies de terceros",
   "topics": [
     "cookies",
     "third"
   ],
   "tosdr": {
     "binding": true,
-    "case": "sets third-party cookies and/or ads",
+    "case": " Ponen cookies de terceros y/o añaden",
     "point": "bad",
     "score": 10,
-    "tldr": "Twitter uses third-party services that may collect your information, using cookies for instance. Twitter uses Google Analytics."
+    "tldr": "Twitter usa servicios de terceros que pueden recolectar tu información, usando cookies para la instancia. Twitter usa Google Analytics."
   }
 }

@@ -11,15 +11,15 @@
   "source": {
     "terms": "http://groups.google.com/intl/en/policies/terms/"
   },
-  "title": "Google posts notice of changes, with a 14-day ultimatum.",
+  "title": "Google publica noticias de modificaciones, con 14 dias de antelación.",
   "topics": [
-    "changes-notice"
+    "Noticias-modificaciones"
   ],
   "tosdr": {
     "binding": true,
-    "case": "user is notified a week or more in advance",
+    "case": "usuario es notificado una semana o más por adelantado",
     "point": "good",
     "score": 30,
-    "tldr": "Google “will post notice of modifications to these terms on this page. [They] will post notice of modified additional terms in the applicable Service. Changes will not apply retroactively and will become effective no sooner than fourteen days after they are posted.” As far as changes to the privacy policy goes: “We will not reduce your rights under this Privacy Policy without your explicit consent.” and if changes are significant Google will email you for some services. "
+    "tldr": "Google “notificaŕa modificaciones en sus términnos de esta página. [Ellos] publicarán noticias de modificaciones de términos adicionales en los servicios aplicables. Los cambios no se aplicarán retroactivamente y entrarán en vigor no antes que cuarenta días antes de ser notificado.” En cuanto a cambios de la política de privacidad: “Nosotros no reduciremos tus derechos bajo esta política de privacidad sin tu consentimiento.” y si hay cambios significativos Google enviará un email para algunos servicios. "
   }
 }

@@ -6,15 +6,15 @@
     "delicious"
   ],
   "source": "http://www.delicious.com/terms",
-  "title": "No Right to leave the service",
+  "title": "No tiene derecho a dejar el servicio",
   "topics": [
     "leave"
   ],
   "tosdr": {
     "binding": true,
-    "case": "no right to leave the service",
+    "case": "No tiene derecho a dejar el servicio",
     "point": "blocker",
     "score": 70,
-    "tldr": "Even if you terminate your account, Delicious “may retain an archived copy for legitimate business purposes”. The copyright license does not end."
+    "tldr": "Incluso si tu cierras tu cuenta, Delicious “puede retener una copia archivada de propósitos legítimos de negocio”. El copyright no finaliza."
   }
 }

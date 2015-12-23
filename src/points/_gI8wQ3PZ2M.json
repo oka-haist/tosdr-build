@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://soundcloud.com/terms-of-use#license"
   },
-  "title": "You stay in control of your copyright",
+  "title": "Mantienes el control de tu copyright.",
   "topics": [
     "copyright-scope"
   ],
@@ -29,6 +29,6 @@
     "case": "you have control over licensing options",
     "point": "good",
     "score": 100,
-    "tldr": "You only grant to SoundCloud the rights necessary to operate the services. You grant to the public the rights to listen and to share your tracks “within the parameters set by you” for each track. You can also publish easily your tracks under a Creative Commons license of your choice."
+    "tldr": "Sólo se otorga a SoundCloud los derechos necesarios para operar los servicios. Concedes al público el derecho a escuchar y a compartir tus pistas “dentro de los parámetros establecidos por ti” para cada pista. También puede publicar fácilmente sus pistas bajo una licencia Creative Commons de su elección."
   }
 }

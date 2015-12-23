@@ -6,16 +6,16 @@
     "delicious"
   ],
   "source": "http://www.delicious.com/privacy",
-  "title": "Non-transparent use of cookies and third party ads",
+  "title": "Uso no transparente de cookies y anuncios de terceros ",
   "topics": [
     "cookies",
     "third"
   ],
   "tosdr": {
     "binding": true,
-    "case": "sets third-party cookies and/or ads",
+    "case": " establece cookies y/o anuncios de terceros",
     "point": "bad",
     "score": 10,
-    "tldr": "Data collected with cookies is kept for an undefined period of time. Also, Delicious' “Third party advertisers may also place or read cookies on your browser.”"
+    "tldr": "Los datos coleccionados con cookies son mantenidos durante un tiempo indefinido. También, Delicious' “Anuncios de terceros pueden tabién aocupar o leer cookies de tu navegador.”"
   }
 }

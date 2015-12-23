@@ -15,15 +15,15 @@
   "source": {
     "terms": "http://groups.google.com/intl/en/policies/terms/"
   },
-  "title": "Jurisdiction in California",
+  "title": "Leyes en California",
   "topics": [
-    "jurisdiction-law"
+    "leyes-jurisdicción"
   ],
   "tosdr": {
     "binding": true,
-    "case": "court of law is in location X",
+    "case": "tribunal de justicia está en una ubicación X",
     "point": "neutral",
     "score": 0,
-    "tldr": "“The laws of California, U.S.A., excluding California’s conflict of laws rules, will apply to any disputes arising out of or relating to these terms or the Services.All claims arising out of or relating to these terms or the Services will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.”"
+    "tldr": "“Las leyes de California, U.S.A., excluyendo el conflicto de leyes de California, se aplicará para cualquier disputa que surja en relacion con los términos de los servicios. Todas las reclamaciones que surjan en relación con los términos de los servicios serán legitimadas exclusivamente en el federal o tribunales estatales de  Santa Clara County, California, USA, y usted y Google consentiréis a la jurisdicción personal de dichos tribunales.”"
   }
 }

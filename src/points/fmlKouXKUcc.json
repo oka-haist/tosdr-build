@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://soundcloud.com/terms-of-use"
   },
-  "title": "The terms are easy to read",
+  "title": "Los Terminos del Servicio son faciles de leer.",
   "topics": [
     "readability"
   ],
@@ -24,6 +24,6 @@
     "case": "easy to read",
     "point": "good",
     "score": 10,
-    "tldr": "SoundCloud provides an index describing what each section is about. Thus, you can easily identify which sections you care about and jump directly to these sections."
+    "tldr": "SoundCloud proporciona un índice que describe lo que cada sección trata. Por lo tanto, puedes identificar fácilmente qué secciones te importan, e ir directamente a estas secciones."
   }
 }

@@ -11,15 +11,15 @@
   "source": {
     "terms": "http://groups.google.com/intl/en/policies/terms/"
   },
-  "title": "Google can use your content for all their existing and future services",
+  "title": "Google puede usar tu contenido para todos sus servicios existentes y futuros",
   "topics": [
     "ownership"
   ],
   "tosdr": {
     "binding": true,
-    "case": "they can use your content for all their existing and future services",
+    "case": "ellos pueden usar tu contenido para todos sus servicios existente y futuros",
     "point": "bad",
     "score": 60,
-    "tldr": "The content you post on a particular Google service can be used by Google on other services you may not be aware of."
+    "tldr": "El contenido que tú publicas en un servicio particular de google puede ser usado por otros servicios sin ser tú consciente."
   }
 }

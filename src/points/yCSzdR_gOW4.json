@@ -11,15 +11,15 @@
   "source": {
     "terms": "http://groups.google.com/intl/en/policies/privacy/"
   },
-  "title": "Google te roba el alma y la informacion de tu novia",
+  "title": "Google mantiene tus búsquedas y otra información para identificar al usuario para un período indefinido de tiempo",
   "topics": [
     "logs-length"
   ],
   "tosdr": {
     "binding": true,
-    "case": "logs are kept forever",
-    "point": "good",
+    "case": "Los registros se mantiene para siempre",
+    "point": "bad",
     "score": 100,
-    "tldr": "Basicamente es eso. Un mierda. Tardaremos como 97 semanas en traducir esto."
+    "tldr": "Google colecciona mucha información sobre los servicios que usas y como los usas, incluyendo cuando tu visitas una página web usando un servicio de Goofle para publicidad. En el pasado, Google fijaba su Política de Privacidad: <em>“Nosotros pedimos un equilibrio responsable contra los qe nos enfrentamos, como la privacidad de nuestros usuarios, la seguridad de nuestros sistemas y la necesidad de innovación. Creemos en anonimizar direcciones IP despuésde 9 meses y cookies en nuestro motor de búsqueda después de 18 meses es un golpe a los derechos”</em>. Hoy, éstas limitaciones de tiempo han ido de la Política de Privacidad, aunque <a href=\"http://support.google.com/accounts/bin/answer.py?hl=en&answer=162743\">some pages</a> reconoce esto. Por lo que debemos concluir que Google ha decidido dejar de tratar el equilibrio adeacuado entre privacidad de los usuarios y sus propias necesidades."
   }
 }

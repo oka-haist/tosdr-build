@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://soundcloud.com/terms-of-use#termination"
   },
-  "title": "You can terminate your account",
+  "title": "Puedes elimiar de forma definitiva tu cuenta.",
   "topics": [
     "leave"
   ],
@@ -24,6 +24,6 @@
     "case": "you can leave at any time",
     "point": "good",
     "score": 15,
-    "tldr": "In order to terminate your agreement to the terms, you need to send a written notice to SoundCloud, Berlin. All your content and your activity will be “irretrievably deleted by SoundCloud, except to the extent that we are obliged or permitted to retain such content, data or information for a certain period of time in accordance with applicable laws and regulations and/or to protect our legitimate business interests”. You should back up your tracks yourself."
+    "tldr": "Con el fin de terminar el acuerdo con los términos y condiciones, es necesario enviar una notificación por escrito a SoundCloud, Berlín. Todo su contenido y actividad se “eliminara irremediablemente por SoundCloud, excepto en la medida en que estamos obligados o autorizados a retener a dicho contenido, datos o información para un determinado período de tiempo, de acuerdo con las leyes y reglamentos y/o para proteger nuestros intereses comerciales legítimos”. Deberas hacer una copia de seguridad de tus pistas por ti mismo."
   }
 }

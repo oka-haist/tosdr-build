@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://soundcloud.com/terms-of-use#indemnification"
   },
-  "title": "Indemnification from claims related to your content or your account",
+  "title": "Indemnizaciones por las reclamaciones a tu contenido o tu cuenta.",
   "topics": [
     "governance"
   ],
@@ -24,6 +24,6 @@
     "case": "responsible and indemnify",
     "point": "bad",
     "score": 40,
-    "tldr": "You agree to indemnify SoundCloud from all claims resulting from any third party for infringement of copyright or invastion of privacy related to your content or any activity related to your account. "
+    "tldr": "Aceptas indemnizar a SoundCloud de todas las reclamaciones que resultan de terceros por la infracción de derechos de autor o invastion de privacidad relacionada con tu contenido o cualquier actividad relacionada con tu cuenta."
   }
 }

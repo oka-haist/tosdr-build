@@ -6,15 +6,15 @@
     "delicious"
   ],
   "source": "http://www.delicious.com/terms",
-  "title": "Only for personal and non-commercial use",
+  "title": "Sólo para personal y uso no comercial",
   "topics": [
     "governance"
   ],
   "tosdr": {
     "binding": true,
-    "case": "only for your individual and non-commercial use",
+    "case": "sólo para tu uso inidividual y no comercial",
     "point": "bad",
     "score": 25,
-    "tldr": "Your use of the service is restricted with “a limited license to access, share, tag and save to your Account any Member Content (including another Member's public “bookmarks”) for your <strong>personal and non-commercial use</strong>”."
+    "tldr": "Tu uso del servicio es restringido con “una licencia limitada para acceder, compartir, etiquetar y guardar en tu cuenta algun Member Content (inclutendo algun otro marcador publico para el miembro) para ti <strong>personal y uso no comercial</strong>”."
   }
 }

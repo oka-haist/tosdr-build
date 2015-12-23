@@ -15,7 +15,7 @@
   "source": {
     "privacy": "http://soundcloud.com/pages/privacy#information"
   },
-  "title": "Personal information can be disclosed in case of business transfer or insolvency",
+  "title": "Tu informacion personal puede ser revelada en caso de traspaso de negocio o insolvencia.",
   "topics": [
     "business-transfer"
   ],
@@ -24,6 +24,6 @@
     "case": "may sell your data in merger",
     "point": "bad",
     "score": 20,
-    "tldr": "SoundCloud “We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency. ”"
+    "tldr": "SoundCloud “Podemos revelar tu información personal a cualquier persona o empresa que adquiere todos o sustancialmente todos los activos o negocios de SoundCloud, o en una fusión de nuestro negocio, o en el caso de nuestra insolvencia.”"
   }
 }

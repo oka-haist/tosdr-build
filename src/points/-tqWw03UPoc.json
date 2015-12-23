@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://soundcloud.com/terms-of-use"
   },
-  "title": "6 weeks to review changes",
+  "title": "6 semanas para revisar cambios.",
   "topics": [
     "changes-notice"
   ],
@@ -24,6 +24,6 @@
     "case": "user is notified a month or more in advance",
     "point": "good",
     "score": 40,
-    "tldr": "When SoundCloud decides to modify the terms of service, they notify you by email. The changes will go in application after 6 weeks, leaving a reasonable amount of time for you to consider whether you agree to the changes."
+    "tldr": "Cuando SoundCloud decida modificar los términos y condiciones del servicio, te notifican por correo electrónico. Los cambios entrarán en aplicación después de 6 semanas, dejando una cantidad de tiempo razonable para que usted considere si está de acuerdo con los cambios."
   }
 }

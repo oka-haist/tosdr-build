@@ -4,15 +4,15 @@
   "services": [
     "delicious"
   ],
-  "title": "[bad] delicious new terms 5. third party services get access to personal information",
+  "title": "[bad] Delicious nuevos términos 5. Servicios de terceros tienen acceso a información personal",
   "topics": [
     "third"
   ],
   "tosdr": {
     "binding": true,
-    "case": "third parties are bound by confidentiality obligations",
+    "case": "Terceros están ligados por la leyes de confidencialidad",
     "point": "good",
     "score": 20,
-    "tldr": "Third parties have access to your Personal Information only to perform certain tasks on behalf of Delicious and are obligated not to disclose or use it for any other purpose."
+    "tldr": "Terceros tiene acceso a tu información personal sólo para realizar cierta tarea de parte de Delicious y están obligados a no revelar o usarla para algún propósito."
   }
 }

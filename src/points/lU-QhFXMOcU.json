@@ -11,15 +11,15 @@
   "source": {
     "terms": "http://groups.google.com/intl/en/policies/terms/"
   },
-  "title": "Limited copyright license to operate and improve all Google Services",
+  "title": "Las licencias de copyright están limitadas para operar y mejorar todos los servicios de Googles",
   "topics": [
     "copyright-scope"
   ],
   "tosdr": {
     "binding": true,
-    "case": "limited for purpose across broad platform",
+    "case": "limitado para el propósito a través de ua amplia plataforma",
     "point": "good",
     "score": 40,
-    "tldr": "The copyright license you grant is “for the limited purpose of operating, promoting, and improving” existing and new Google Services. However, please note that the license does not end if you stop using the Google services."
+    "tldr": "La licencia de copyright que concedes es “con el propósito limitado de funcionamiento, promoción y mejora” para servicios existentes y futuros de Google. Sin embargo, tenga en cuenta que la licencia no termina si tu paras de usar los servicios de Google."
   }
 }
