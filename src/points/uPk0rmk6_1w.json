@@ -16,7 +16,7 @@
   "source": {
     "terms": "http://500px.com/terms"
   },
-  "title": "The terms can change at any time, sometimes with notice",
+  "title": "Los terminos pueden cambiar en cualquie momento, a veces con previo aviso",
   "topics": [
     "changes"
   ],
@@ -26,6 +26,6 @@
     "point": "bad",
     "reason": true,
     "score": 60,
-    "tldr": "“500px reserves the right, at its sole discretion, to modify or replace the terms at any time. If the alterations constitute a material change to the terms, 500px will notify you by Posting an announcement on the site. What constitutes a material change will be Determined at 500px’s sole discretion.”"
+    "tldr": "“500px se reserva el derecho, a su exclusivo criterio, de modificar o reemplazar los terminos en cualquier momento. Si las modificaciones contituyen un cambio significativo de los terminos, 500px te notificara Publicando un anuncio en su pagina web. 500px se reserva el exclusivo criterio de evaluar que es un cambio significativo.”"
   }
 }
