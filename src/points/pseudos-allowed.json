@@ -15,7 +15,7 @@
     "app-net",
     "steam"
   ],
-  "title": "Pseudonyms allowed",
+  "title": "Se permiten pseudonimos",
   "topics": [
     "track"
   ],
@@ -24,6 +24,6 @@
     "case": "pseudonyms allowed",
     "point": "good",
     "score": 20,
-    "tldr": "You do not have to provide your legal name (except for paid accounts for billing purposes) and you can use the service with a pseudonym."
+    "tldr": "No tienes que proporcionar tu nombre legal (Excepto de las cuentas de pago con fines de facturacion) y puedes usar el servicio con un pseudonimo."
   }
 }

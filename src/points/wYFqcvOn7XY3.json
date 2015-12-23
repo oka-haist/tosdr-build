@@ -16,7 +16,7 @@
     "faq": "",
     "terms": "http://500px.com/terms"
   },
-  "title": "You are responsible for any claim and agree to indemnify them",
+  "title": "Eres responsable de cualquier reclamación y te compromete es a indemnizar",
   "topics": [
     "governance"
   ],
@@ -25,6 +25,6 @@
     "case": "responsible and indemnify",
     "point": "bad",
     "score": 40,
-    "tldr": "You cannot hold 500px responsible for any claim or demand in law which you ever had, or may have. You agree to indemnify them for all claims related to your content or your account, including for any person using your username and password."
+    "tldr": "500px no se hace responsable de cualquier reclamación o demanda legal que tuvo o pudo tener. Te comprometes a indemnizar por todas las reclamaciones relacionados con el contenido de tu cuenta, incluyendo, por cualquier persona que utilice tu nombre de usuario y contraseña."
   }
 }

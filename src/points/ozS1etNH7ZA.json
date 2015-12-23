@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://500px.com/terms"
   },
-  "title": "500px Store: Authorship",
+  "title": "500px Store: Autoria",
   "topics": [
     "waiver",
     "ownership"
@@ -25,6 +25,6 @@
     "case": "sign away moral rights",
     "point": "blocker",
     "score": 50,
-    "tldr": "“you hereby irrevocably waive all moral rights in your Store Images;”"
+    "tldr": "“Usted renuncia irrevocablemente a todos los derechos morales en su tienda de Imágenes;”"
   }
 }

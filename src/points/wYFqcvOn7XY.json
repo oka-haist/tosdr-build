@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://500px.com/terms"
   },
-  "title": "The terms are easy to read",
+  "title": "Terminos del Servicio faciles de leer",
   "topics": [
     "readability"
   ],
@@ -24,6 +24,6 @@
     "case": "easy to read",
     "point": "good",
     "score": 10,
-    "tldr": "500px provides an easy to read summary of the terms on the right side. This provides a pleaseant reading experience. However some of the summaries are a bit misleading and should not omit important details."
+    "tldr": "500px ofrece un resumen fácil de leer los términos en el lado derecho. Esto proporciona una experiencia de lectura agradable. Sin embargo algunos de los resúmenes son un poco engañosos y no se deben omitir detalles importantes."
   }
 }
