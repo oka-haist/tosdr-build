@@ -11,15 +11,15 @@
   "source": {
     "privacy": "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
   },
-  "title": "You can chose with whom you share your photo",
+  "title": "Puedes elegir con quien compartes tu foto",
   "topics": [
     "user-choice"
   ],
   "tosdr": {
     "binding": true,
-    "case": "you can choose with whom you share content",
+    "case": "Puedes elegir con quien compartes contenido",
     "point": "good",
     "score": 0,
-    "tldr": "“You can specify whether or not you want your photos to be accessible to the public, accessible to a select few, or private (only you can access them with your Yahoo! ID and password)”"
+    "tldr": "Puede especificar si deseas o no que sus fotos sean accesibles al público, accesibles a unos pocos elegidos, o privada (sólo se puede acceder a ellos con tu ID de Yahoo! y contraseña)"
   }
 }

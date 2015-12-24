@@ -16,7 +16,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "You must be able to legally sign a binding contract",
+  "title": "Debes de ser capaz de firmar legalmente un contrato vinculante",
   "topics": [
     "governance"
   ],
@@ -25,6 +25,6 @@
     "case": "age limit",
     "point": "neutral",
     "score": 15,
-    "tldr": "You can't use their Service or accept their Terms unless you're of legal age to form a binding contract wherever you reside."
+    "tldr": "No puedes utilizar su servicio o aceptar sus términos a menos que seas mayor de edad para formalizar un contrato vinculante donde tú resides."
   }
 }

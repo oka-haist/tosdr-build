@@ -16,15 +16,15 @@
     "faq": "",
     "terms": ""
   },
-  "title": "No liability is accepted for improper access to your personal information.",
+  "title": "No se acepta responsabilidad por el acceso indebido a tu información personal.",
   "topics": [
     "personal-data"
   ],
   "tosdr": {
     "binding": true,
-    "case": "no liability for unauthorized access",
+    "case": "ninguna responsabilidad por el acceso no autorizado",
     "point": "bad",
     "score": 30,
-    "tldr": "Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your information and cannot assume liability for improper access to it."
+    "tldr": "Lamentablemente, ningún sistema de seguridad se puede garantizar al 100%. En consecuencia, no podemos garantizar la seguridad de su información y no podemos asumir la responsabilidad por el acceso indebido a ella."
   }
 }

@@ -6,7 +6,7 @@
     "contributors": [
       "Sebastián Waisbrot <seppo0010@gmail.com>"
     ],
-    "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "licencia-para-este-archivo": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "spec-version": "1.1"
   },
   "services": [
@@ -15,15 +15,15 @@
   "source": {
     "terms": "https://www.rapidshare.com/#!rsag_tou"
   },
-  "title": "4 weeks to review changes for paying users",
+  "title": "4 semanas para revisar cambios para usuarios de pago",
   "topics": [
     "changes-notice"
   ],
   "tosdr": {
     "binding": true,
-    "case": "user is notified a month or more in advance",
+    "case": "usuario será notificado con un mes o más de antelación",
     "point": "good",
     "score": 40,
-    "tldr": "RapidShare informs you about changes before they apply. Paying users will get four weeks to review any disadvantageous changes. “RapidShare shall be obligated to refer the user to this rule again when providing notification of the new Terms of Use.”"
+    "tldr": "RapidShare informará sobre los cambios antes de aplicarlos. Usuarios de pago tendrán cuatro semanas para revisar los cambios desfavorablesUsuarios de pago tendrán cuatro semanas para revisar los cambios desfavorables. “RapidShare estará obligado a remitir al usuario de nuevo las nuevas Condiciones de Uso.”"
   }
 }

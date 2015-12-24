@@ -7,16 +7,16 @@
     "facebook"
   ],
   "set": "set+service+and+topic",
-  "title": "Este servicio te rastrea en otros sitios webs",
+  "title": "Este servicio te rastrea en otros sitios web",
   "topics": [
     "cookies",
     "third"
   ],
   "tosdr": {
     "binding": true,
-    "case": "Te rastrea en otro sitios web",
+    "case": "tracks you on other websites",
     "point": "bad",
     "score": 60,
-    "tldr": "Este servicio usa cookies para rastrearte incluso si tu no estás interactuando con ello directamente. Amazon por ejemplo, usa <a href=\"http://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_cookies?nodeId=468496&amp;#cookies\">cookies</a> para rastrear tu dispositivo y enviar publicidad dirigida en otros sitios web (asociados de Amazon , sitios web usando pedidos de Amazon). Ellos ”obtiene cierto tipo de información cuando tu navegador web accede a Amazon.com o publicidad y otros contenidos servido de parte de Amazon.com en otro sitios Web”."
+    "tldr": "Este servicio utiliza cookies para rastrearte , incluso si no estás interactuando con ellos directamente. Amazon, por ejemplo, utiliza <a href=\"http://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_cookies?nodeId=468496&amp;#cookies\">cookies</a> para rastrear tu equipo y mostrar anuncios dirigidos de otros sitios web (asociados de Amazon, sitios web usando Amazon Checkout). Ellos “obtienen ciertos tipos de información cuando tu navegador accede a Amazon.com o anuncios y otros contenidos servidos  en nombre de Amazon.com en otros sitios web."
   }
 }

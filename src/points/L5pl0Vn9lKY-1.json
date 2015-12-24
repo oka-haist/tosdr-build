@@ -16,16 +16,16 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Non-personal info can be disclosed in any way.",
+  "title": "La información no personal puede ser divulgada de cualquier manera.",
   "topics": [
     "personal-data",
     "track"
   ],
   "tosdr": {
     "binding": true,
-    "case": "only aggregate data is given to third parties",
+    "case": "sólo los datos agregados se dan a terceros",
     "point": "neutral",
     "score": 10,
-    "tldr": "Non-personal information is information that does not permit direct association with you. We may collect, use, transfer and disclose non-personal information for any purpose.\n...\nWe also provide analysis of our users in the aggregate or otherwise in anonymous form to prospective partners, advertisers and other third parties."
+    "tldr": "La información no personal es información que no permite la asociación directa contigo. Podemos recopilar , usar, transferir y divulgar información no personal para cualquier propósito . \n... \n También se proporcionan análisis de nuestros usuarios en su conjunto o de otra manera en forma anónima a posibles socios , anunciantes y otros terceros. "
   }
 }

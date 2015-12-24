@@ -11,7 +11,7 @@
   "source": {
     "privacy": "https://kolabnow.com/privacy"
   },
-  "title": "No tracking cookies and web analytics opt-out",
+  "title": "Sin cookies de seguimiento y análisis web opt-out",
   "topics": [
     "tracking",
     "cookies",
@@ -21,6 +21,6 @@
     "binding": true,
     "point": "good",
     "score": 20,
-    "tldr": "Cookies are only used in so far as they are required for the technical working of the system, and we never use them to track you on third party sites. The site also uses web analytics, but you can opt-out at <a href=\"https://kolabnow.com/privacy\">https://kolabnow.com/privacy</a>"
+    "tldr": "Las cookies sólamente son usadas en la medida en que son necesarion para el funcionamiento técnico del sistema y nunca las usamos para rastrearte en terceros sitios. El sitio también usa análisis web, pero puedes usar opt-out en <a href=\"https://kolabnow.com/privacy\">https://kolabnow.com/privacy</a>"
   }
 }

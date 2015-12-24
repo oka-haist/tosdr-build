@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant liability is limited to SLA and correcting the error, if feasible",
+  "title": "La responsabilidad de Cloudant se limita a SLA y corregir los errores, si es posible",
   "topics": [
     "governance"
   ],
@@ -24,6 +24,6 @@
     "case": "liability limited to fees you paid",
     "point": "neutral",
     "score": 10,
-    "tldr": "Cloudant's liability won't exceed the fees from the last 12 months immediately preceding the date of a claim. They go on to say that the sole remedy of a claim is for Cloudant to use commercially reasonable efforts to correct the error, omission or cessation."
+    "tldr": "La responsabilidad de Cloudant no excederá a las cuotas de los últimos 12 meses inmediatamente anteriores a la fecha de la reclamación. Ellos van a decir que el único recurso de un reclamo es por Cloudant para usos comerciales razonables, esforzar en corregir el error, omisión o suspensión."
   }
 }

@@ -8,7 +8,7 @@
   "services": [
     "kolabnow"
   ],
-  "title": "Disclosure",
+  "title": "Revelación",
   "topics": [
     "meta"
   ],
@@ -16,6 +16,6 @@
     "binding": true,
     "point": "neutral",
     "score": 0,
-    "tldr": "ToS;DR and this service are not affiliated. But we disclose our personal relationship. Please read the email for more details, click “Discussion”"
+    "tldr": "ToS;DR y este servicio no son afiliadas. Pero revelamos nuestra relación personal. Por favor lee el email para más detalles, clickea “Discusión”"
   }
 }

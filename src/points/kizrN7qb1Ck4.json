@@ -6,7 +6,7 @@
     "seenthis"
   ],
   "source": "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle",
-  "title": "You are free to choose your copyright license",
+  "title": "Eres libre de elegir tu licencia de derechos de autor",
   "topics": [
     "copyright-scope"
   ],
@@ -15,6 +15,6 @@
     "case": "you have control over licensing options",
     "point": "good",
     "score": 100,
-    "tldr": "The copyright license granted to SeenThis is limited for the purpose of running the service: you allow them to publish your content on the website and to add automatated data. You are free to choose your own copyright license for your content in your account settings: Public Domain, Creative Commons non commercial, or free licenses, but also classic copyright if you wish so."
+    "tldr": "La licencia de derechos de autor concedida a SeenThis es limitada con el fin de ejecutar el servicio: se les permite publicar tu contenido en la página web y para agregar datos automáticamente. Eres libre de elegir tu propia licencia de derechos de autor para tu contenido en la configuración de tu cuenta: dominio público, Creative Commons no comercial, o libre de licencias, sino también los derechos de autor clásico si así lo desea."
   }
 }

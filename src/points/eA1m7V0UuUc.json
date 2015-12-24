@@ -4,7 +4,7 @@
   "services": [
     "facebook"
   ],
-  "title": "You own your data",
+  "title": "Eres dueño de tus datos",
   "topics": [
     "ownership"
   ],
@@ -13,6 +13,6 @@
     "case": "they state that you own your data",
     "point": "good",
     "score": 10,
-    "tldr": "You allow Facebook to use your data, but they explicitly state that you maintain the ownership yourself."
+    "tldr": "Permites a Facebook usar tus datos, pero ellos mantienen explícitamente que tú mantienes la titularidad de ellos."
   }
 }

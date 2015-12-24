@@ -4,9 +4,9 @@
   "meta": {
     "author": "ToS;DR project",
     "contributors": [
-      "see mailing list discussion"
+      "véase la lista de correo de discusión"
     ],
-    "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "licencia-para-este-archivo": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "spec-version": "1.1"
   },
   "services": [
@@ -16,15 +16,15 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Rapidshare uses personal information for limited purposes",
+  "title": "Rapidshare utiliza la información personal para propósitos limitados",
   "topics": [
     "personal-data"
   ],
   "tosdr": {
     "binding": true,
-    "case": "your personal data is used for limited purposes",
+    "case": "sus datos personales se utiliza para fines limitados",
     "point": "good",
     "score": 60,
-    "tldr": "https://www.rapidshare.com/#!rsag_ppolicy\n> RapidShare collects only the data that is needed to open and manage your account. This data will not be used for any other purpose. RapidShare takes every affordable precaution to protect your personal information against loss, theft, and misuse as well as against unauthorized access, disclosure, alteration, and destruction by taking all administrative, technical, and physical measures."
+    "tldr": "https://www.rapidshare.com/#!rsag_ppolicy\n> RapidShare recoge sólo los datos que se necesita para abrir y administrar su cuenta. Estos datos no se puede utilizar para cualquier otro propósito. RapidShare toma todas las precauciones asequible para proteger su información personal contra pérdida, robo y uso indebido, así como contra el acceso no autorizado, revelación, alteración y destrucción mediante la adopción de todas las medidas administrativas, técnicas y físicas."
   }
 }

@@ -6,7 +6,7 @@
     "seenthis"
   ],
   "source": "http://seenthis.net/fran%C3%A7ais/mentions/article/propri%C3%A9t%C3%A9-intellectuelle",
-  "title": "You can get your data back",
+  "title": "Puedes recuperar los datos",
   "topics": [
     "data-export"
   ],
@@ -15,6 +15,6 @@
     "case": "you can get your data back",
     "point": "good",
     "score": 40,
-    "tldr": "You can get the totality of your messages at any time in an XML file."
+    "tldr": "Puedes obtener la totalidad de sus mensajes en cualquier momento en un archivo XML."
   }
 }

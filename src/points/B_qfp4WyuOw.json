@@ -4,7 +4,7 @@
   "services": [
     "facebook"
   ],
-  "title": "Facebook uses cookies",
+  "title": "Facebook usa cookies",
   "topics": [
     "cookies"
   ],
@@ -13,6 +13,6 @@
     "case": "requires first-party cookies",
     "point": "neutral",
     "score": 10,
-    "tldr": "Facebook uses, pixels and local storage in order to gather information about you, your device, your browser cache, your use of Facebook.  Facebook also uses cookies for adversing purposes."
+    "tldr": "Facebook utiliza, los píxeles y el almacenamiento local con el fin de recopilar información sobre ti, tu dispositivo, la caché del navegador, tu uso de Facebook. Facebook también utiliza cookies con fines publicitarios."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/privacy/"
   },
-  "title": "Cloudant may share aggregated usage data with partners and third parties",
+  "title": "Cloudant puede compartir los datos de uso de agregados con los socios y terceros",
   "topics": [
     "personal-data",
     "track",
@@ -26,6 +26,6 @@
     "case": "only aggregate data is given to third parties",
     "point": "neutral",
     "score": 10,
-    "tldr": "Cloudant collects information to improve and maintain their services. This aggregate data doesn't identify users personally, but they may share it with their partners and other third parties. In addition, they use cookie technology to collect information from your visit to their site, such as IP addresses, Internet service provider, etc."
+    "tldr": "Cloudant recopila información para mejorar y mantener sus servicios. Estos datos agregados no identifican personalmente a los usuarios, pero puede compartirlo con sus socios y otras terceras partes. Además, utilizan la tecnología de cookies para recoger información de tu visita a su sitio, como direcciones IP, proveedor de servicios de Internet, etc."
   }
 }

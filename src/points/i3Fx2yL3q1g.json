@@ -4,7 +4,7 @@
   "services": [
     "facebook"
   ],
-  "title": "The Android app can record sound & video from your phone, at any time, without your consent",
+  "title": "La aplicación de Android puede grabar audio y vídeo con tu teléfono en cualquier momento, sin tu consentimiento",
   "topics": [
     "device-access"
   ],
@@ -13,6 +13,6 @@
     "case": "the (mobile) app of this service requires very broad permissions at install-time",
     "point": "bad",
     "score": 30,
-    "tldr": "When installing the Facebook app on an Android phone, it allows access to the audio record path and to take pictures with the camera. This allows the application at any time to collect images the camera is seeing."
+    "tldr": "Cuando instalas la aplicación de Facebook en tu móvil Android, les permites acceder a la ruta de grabación de audio y tomar fotos con la cámara. Esto permite a la aplicación en cualquier momento coleccionar imágenes de la cámara que está viendo."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant isn't responsible for any unauthorized access or use of your account",
+  "title": "Cloudant no es responsable de cualquier acceso o uso no autorizado de tu cuenta",
   "topics": [
     "personal-data"
   ],
@@ -24,6 +24,6 @@
     "case": "no liability for unauthorized access",
     "point": "bad",
     "score": 30,
-    "tldr": "Cloudant isn't liable for any unauthorized access or use of your account. This means that you are responsible for maintaining the confidentiality of your username and password."
+    "tldr": "Cloudant no se hace responsable de cualquier acceso o uso no autorizado de tu cuenta. Esto significa que tú eres responsable de mantener la confidencialidad de tu nombre de usuario y contraseña."
   }
 }

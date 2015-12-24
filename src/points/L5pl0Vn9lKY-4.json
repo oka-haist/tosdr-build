@@ -16,15 +16,15 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Users can request access and deletion of personal info.",
+  "title": "Los usuarios pueden solicitar el acceso y cancelación de sus datos personales.",
   "topics": [
     "personal-data"
   ],
   "tosdr": {
     "binding": true,
-    "case": "you can request access and deletion of personal data",
+    "case": "puedes solicitar el acceso y cancelación de tus datos personales",
     "point": "good",
     "score": 50,
-    "tldr": "With respect to your personal information, you can request access and that we correct or delete this personal information by emailing your request to pri...@netflix.com."
+    "tldr": "Con respecto a tu información personal, puedes solicitar el acceso y corregir o borrar esta información personal por correo electrónico con petición a pri...@ netflix.com"
   }
 }

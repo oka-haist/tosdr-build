@@ -32,7 +32,7 @@
     "amazon",
     "youtube"
   ],
-  "title": "Los Terminos del Servicio pueden cambiar en cualquier momento a su criterio, sin avisar al usuario.",
+  "title": "Los Términos del Servicio pueden cambiar en cualquier momento a su criterio, sin avisar al usuario.",
   "topics": [
     "changes-notice"
   ],
@@ -41,6 +41,6 @@
     "case": "user needs to check tosback.org",
     "point": "bad",
     "score": 70,
-    "tldr": "They can change the terms of service any time they see fit, even without notification to the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."
+    "tldr": "Pueden cambiar las condiciones del servicio en cualquier momento que consideren oportuno, incluso sin notificación al usuario. La utilización del servicio supuestamente implica la aceptación de los cambios en los términos."
   }
 }

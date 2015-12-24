@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant warns you if emergency maintenance is happening",
+  "title": "Cloudant te avisa si el mantenimiento de emergencia está pasando",
   "topics": [
     "guarantee",
     "user-info"
@@ -25,6 +25,6 @@
     "case": "will warn about maintenance",
     "point": "good",
     "score": 30,
-    "tldr": "Cloudant may temporarily suspend the availability of all or part of the Hosting Platform for reasons of public safety, security, maintenance, interoperability of services, data protection, or to perform work that is necessary to keep the service running, or for technical reasons. If emergency maintenance is required, you will be notified immediately."
+    "tldr": "Cloudant podrá suspender temporalmente la disponibilidad de la totalidad o parte de la plataforma de alojamiento por razones de seguridad pública, la seguridad, el mantenimiento, la interoperabilidad de los servicios, la protección de datos, o para llevar a cabo el trabajo que es necesario para mantener el servicio en funcionamiento, o por razones técnicas. Si se requiere mantenimiento de emergencia, se le notificará de inmediato te avisa si el mantenimiento de emergencia está pasando."
   }
 }
