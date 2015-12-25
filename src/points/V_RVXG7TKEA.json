@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Jurisdiction in Delaware",
+  "title": "Jurisdicción en Delaware",
   "topics": [
     "jurisdiction-law"
   ],
@@ -30,9 +30,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "court of law is in location X",
+    "case": "El tribunal de justicia está en una ubicación X",
     "point": "neutral",
     "score": 0,
-    "tldr": "Courts located within Dover, Delaware have exclusive jurisdiction and shall apply the laws of the State of Delaware without regard to its conflict of law provisions."
+    "tldr": "Tribunales ubicados en Dover, Delaware tiene urisdicción exclusiva y se aplicarán las leyes del estado de Delaware sin tener en cuenta su conflicto de disposiciones legales."
   }
 }
