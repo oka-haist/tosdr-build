@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Twitpic takes credit for your content",
+  "title": "Twitpic se tribuye el mérito de tu conteido",
   "topics": [
     "ownership"
   ],
@@ -30,9 +30,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "they take credit for your content",
-    "point": "blocker",
+    "case": "Ellos se atribuyen el mérito de tu conteido",
+    "point": "bloqueador",
     "score": 100,
-    "tldr": "Twitpic has deals with partners to use your content without giving you credit. Twitpic's partners “are required to […] attribute credit to Twitpic as the source”."
+    "tldr": "Twitpic tiene acuerdos con socios para usar tu contenido sin darle mérito. Los socios de Twitpic “estan obligados a […] atribuir el merito a Twitpic como la fuente”."
   }
 }

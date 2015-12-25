@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Reduction of legal period for cause of action",
+  "title": "Reduccion del plazo legal para una demanda",
   "topics": [
     "governance"
   ],
@@ -30,9 +30,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "reduction of legal period for cause of action",
-    "point": "bad",
+    "case": "Reduccion del plazo legal para una demanda",
+    "point": "malo",
     "score": 50,
-    "tldr": "You cannot sue Twitpic for something that has happened more than one year ago. "
+    "tldr": "No puede demandar a Twitpic por algo que ha sucedido hace más de un año."
   }
 }
