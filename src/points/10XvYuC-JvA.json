@@ -4,7 +4,7 @@
   "services": [
     "wikipedia"
   ],
-  "title": "Wikipedia can block your account",
+  "title": "Wikipedia puede bloquear tu cuenta",
   "topics": [
     "suspension"
   ],
@@ -13,6 +13,6 @@
     "case": "suspension will be fair and proportionate",
     "point": "good",
     "score": 20,
-    "tldr": "In certain (hopefully unlikely) circumstances it may be necessary for either ourselves or the Wikimedia community or its members (as described in Section 10) to terminate part or all of our services, terminate these Terms of Use, block your account or access, or ban you as a user."
+    "tldr": "En determinadas circunstancias (improbables) puede que sea necesario para nosotros mismos o la comunidad de Wikimedia, o sus miembros (como se describe en la Sección 10) de suspender parte o la totalidad de nuestros servicios, terminar estos términos de uso, bloquear tu cuenta o acceso, o  prohibirte como usuario."
   }
 }

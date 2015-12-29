@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Deleted images are not really deleted",
+  "title": "Las imágenes eleminadas no son realmente elminadas",
   "topics": [
     "leave"
   ],
@@ -33,6 +33,6 @@
     "case": "deleted content is not really deleted",
     "point": "blocker",
     "score": 30,
-    "tldr": "“Deleted images are only accessed in the event of a legal issue.”"
+    "tldr": "“Las imágenes eliminadas están sólo accedidas en el caso de un problema legal.”"
   }
 }

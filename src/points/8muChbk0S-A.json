@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://wikimediafoundation.org/wiki/Terms_of_use#7._Licensing_of_Content"
   },
-  "title": "You publish your contributions under free licenses",
+  "title": "Publicas tu contribuciones bajo licencia libre",
   "topics": [
     "copyright-scope"
   ],
@@ -24,6 +24,6 @@
     "case": "you publish under a free license, not a bilateral one",
     "point": "good",
     "score": 90,
-    "tldr": "Wikipedia allows users to hold the copyright to any text that they submit under: Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), and GNU Free Documentation License (“GFDL”) (unversioned, with no invariant sections, front-cover texts, or back-cover texts). However, both of these allow your contributions to be used commercially."
+    "tldr": "Wikipedia permite que los usuarios tengan copyright en cualquier texto que presenten bajo: Creative Commons Attribution-ShareAlike 3.0 Unported License (“CC BY-SA”), y GNU Free Documentation License (“GFDL”)(sin versión, sin secciones invariantes, portadas, o contraportadas). Sin embargo, ambos permiten que tus contribuciones se utilicen comercialmente."
   }
 }

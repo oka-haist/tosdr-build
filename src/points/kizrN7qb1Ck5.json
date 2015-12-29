@@ -6,7 +6,7 @@
     "wordpress-com"
   ],
   "source": "http://en.wordpress.com/tos/",
-  "title": "Limited copyright license to Wordpress.com including for promotion",
+  "title": "Licencia de copyright limitado a Wordpress.com incluyendo  por promoción",
   "topics": [
     "copyright-scope"
   ],
@@ -15,6 +15,6 @@
     "case": "limited for purpose of same service",
     "point": "good",
     "score": 80,
-    "tldr": "You grant a copyright license to Automattic's Wordpress.com “<strong>solely for the purpose of</strong> displaying, distributing and promoting your blog.”"
+    "tldr": "Otorgas una licencia de derechos de autor a Automattic's Wordpress.com “<strong> con el único fin de </ strong> mostrar, distribuir y promocionar tu blog.”"
   }
 }

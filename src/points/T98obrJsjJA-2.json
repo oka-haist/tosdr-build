@@ -1,7 +1,7 @@
 {
   "discussion": "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
   "id": "T98obrJsjJA-2",
-  "licencia-para-este-archivo": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+  "license-for-this-file": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
   "services": [
     "skype",
     "zoosk",
@@ -23,14 +23,14 @@
     "videobb"
   ],
   "source": "http://www.accountkiller.com/en/Blacklist",
-  "title": "Tu no puedes borrar tu cuenta",
+  "title": "No puedes borrar tu cuenta",
   "topics": [
     "leave"
   ],
   "tosdr": {
     "binding": true,
-    "case": "no tiene derecho a dejar el servicio",
-    "point": "bloqueador",
+    "case": "no right to leave the service",
+    "point": "blocker",
     "score": 70,
     "tldr": "Es imposible eliminar su cuenta de este servicio, de acuerdo con el <a href='http://www.accountkiller.com/en/Blacklist'>AccountKiller blacklist</a>."
   }

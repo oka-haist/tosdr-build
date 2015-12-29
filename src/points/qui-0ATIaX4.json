@@ -6,7 +6,7 @@
     "wikipedia"
   ],
   "source": "https://wikimediafoundation.org/wiki/Privacy_policy#Cookies",
-  "title": "Wikipedia uses temporary session cookies",
+  "title": "Wikipedia usa cookies de sesión temporal",
   "topics": [
     "cookies"
   ],
@@ -15,6 +15,6 @@
     "case": "only temporary session cookies",
     "point": "good",
     "score": 20,
-    "tldr": "Wikipedia sets a temporary session cookie for not-logged-in users, which is deleted at the end of the browser's session."
+    "tldr": "Wikipedia define una cookie de sesión temporal para usuarios no conectados en el que se eliminan al cerrar la sesión del navegador."
   }
 }
