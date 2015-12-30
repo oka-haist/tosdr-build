@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Indemnizarás a Twitpic de cualquier reclamación relacionada con tu contenido",
+  "title": "Usted indemnizara a Twitpic por cualquier reclamacion relaccionada con su contenido",
   "topics": [
     "governance"
   ],
@@ -30,9 +30,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "responsible and indemnify",
-    "point": "bad",
+    "case": "responsable e indemnizar",
+    "point": "mal",
     "score": 40,
-    "tldr": "Aceptas indemnizar a Twitpic y sus empleados de cualquier reclamo hecho por un tercero relacionada con tu contenido. Eso incluye el pago de los honorarios razonables de los abogados."
+    "tldr": "Usted acepta en indemnizar a Twitpic y a sus empleados por cualquier recamacion hecha por un tercero sobre algo relacionado con su contenido. Esto incluye el pago de los honorario razonables de los abogados."
   }
 }

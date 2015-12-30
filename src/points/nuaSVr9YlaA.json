@@ -6,7 +6,7 @@
     "sonic-net"
   ],
   "source": "http://www.delicious.com/privacy",
-  "title": "They delete user logs after 2 weeks",
+  "title": "Eliminan los registos del usuario después de 2 semanas",
   "topics": [
     "logs-length"
   ],
@@ -15,6 +15,6 @@
     "case": "logs are deleted after two weeks",
     "point": "good",
     "score": 80,
-    "tldr": "Sonic.net will not keep User logs longer than two weeks."
+    "tldr": "Sonic.net no mantendrá registros de los usuarios más de dos semanas."
   }
 }

@@ -12,7 +12,7 @@
   "services": [
     "instagram"
   ],
-  "title": "Terms may be changed at their discretion, but they will notify you before.",
+  "title": "Los términos podrán ser modificadss, a su discreción, pero se te notificará antes.",
   "topics": [
     "changes-notice"
   ],
@@ -21,6 +21,6 @@
     "case": "user is notified a week or more in advance",
     "point": "good",
     "score": 30,
-    "tldr": "They can change the terms at their discretion, but they will notify the user in reasonable advance by email or by posting them online. However, your use of the service constitutes acceptance of the changes in the terms without explicit consent."
+    "tldr": "Pueden cambiar los términos a su discrección, pero notificarán al usuario con una antelación razonable por correo o por una publicación online. Sin embargo, el uso del servicio implica la aceptación de los cambios en los términos sin consentimiento expreso."
   }
 }

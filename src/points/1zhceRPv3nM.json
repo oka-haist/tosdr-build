@@ -5,7 +5,7 @@
     "amazon"
   ],
   "set": "set+service+and+topic",
-  "title": "Amazon may sell user data as part of a business transfer",
+  "title": "Amazon puede vender los datos del usuario como parte de una transferncia empresarial",
   "topics": [
     "business-transfer",
     "personal-data"
@@ -15,6 +15,6 @@
     "case": "may sell your data in merger",
     "point": "bad",
     "score": 20,
-    "tldr": "Amazon may sell user data as part of a business transfer"
+    "tldr": "Amazon puede vender los datos de usuario como parte de una transferencia empresarial"
   }
 }

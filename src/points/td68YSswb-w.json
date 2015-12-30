@@ -5,7 +5,7 @@
     "dropbox"
   ],
   "set": "set+service+and+topic",
-  "title": "Dropbox will notify of changes on the terms",
+  "title": "Dropbox notificará  los cambios en los términos",
   "topics": [
     "changes-notice"
   ],
@@ -14,6 +14,6 @@
     "case": "user is notified on the day",
     "point": "neutral",
     "score": 0,
-    "tldr": "Dropbox will notify of changes on the terms"
+    "tldr": "Dropbox notificará  los cambios en los términos"
   }
 }

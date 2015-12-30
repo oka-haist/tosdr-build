@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Las imágenes eleminadas no son realmente elminadas",
+  "title": "Las imágenes eliminadas, no se eliminaron realmente",
   "topics": [
     "leave"
   ],
@@ -30,9 +30,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "deleted content is not really deleted",
-    "point": "blocker",
+    "case": "El conteido eliminado, no esta realmente eliminado",
+    "point": "bloqueador",
     "score": 30,
-    "tldr": "“Las imágenes eliminadas están sólo accedidas en el caso de un problema legal.”"
+    "tldr": "“Lás imágenes eliminadas solo estan accesibles en el caso de una cuestión jurídica”"
   }
 }

@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "user data is not sold",
+  "title": "Datos de usuario no se venden",
   "topics": [
     "personal-data"
   ],
@@ -25,6 +25,6 @@
     "case": "personal data is not sold",
     "point": "good",
     "score": 25,
-    "tldr": "We do not sell, trade, or rent \nUsers personal identification information to others."
+    "tldr": "Nosotros no vendemos, comercializamos ni alquilamos información de identificación personal de los usuarios a terceros."
   }
 }

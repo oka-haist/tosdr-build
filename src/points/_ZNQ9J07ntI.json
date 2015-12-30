@@ -6,7 +6,7 @@
     "flattr"
   ],
   "source": "https://flattr.com/terms",
-  "title": "Age limit of 18",
+  "title": "Edad límite de 18",
   "topics": [
     "governance"
   ],
@@ -15,6 +15,6 @@
     "case": "age limit",
     "point": "neutral",
     "score": 15,
-    "tldr": "Flattr is available only to individuals who are at least 18 years old. "
+    "tldr": "Flattr está disponible sólo para individuos que tengan por lo menos 18 años."
   }
 }

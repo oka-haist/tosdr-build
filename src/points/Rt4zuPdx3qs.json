@@ -16,7 +16,7 @@
     "article": "http://gadgetwise.blogs.nytimes.com/2011/05/26/if-twitpics-new-deal-troubles-you-here-are-some-other-options/",
     "terms": "http://www.twitpic.com/terms.do"
   },
-  "title": "Tu contenido es para Twitpic y sus socios",
+  "title": "Su conteido es para Twitpic y sus socios.",
   "topics": [
     "copyright-scope"
   ],
@@ -31,9 +31,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "they can license to third parties",
+    "case": "Ellos pueden conceder licencias a terceras partes",
     "point": "bad",
     "score": 85,
-    "tldr": "La licencia de copyright va más allá de la obligación de operar el servicio, e incluye la distribución en Twitpic y por “socios afiliados” de Twitpic, tales como agencias de medios de comunicación."
+    "tldr": "La licencia de copyright va más allá e la obligacion de operar con el servicio e inlcuye a distribución  distribution en twitpic y por “socios afiliados” de twitpic tales como agencias de medios."
   }
 }

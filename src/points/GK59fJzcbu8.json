@@ -5,7 +5,7 @@
     "mint.com"
   ],
   "set": "set+service+and+topic",
-  "title": "Mint.com may transfer your data as part of a business transfer",
+  "title": "Mint.com puede transferir tus datos como parte de una transmisión de empresas",
   "topics": [
     "business-transfer"
   ],
@@ -14,6 +14,6 @@
     "case": "may sell your data in merger",
     "point": "bad",
     "score": 20,
-    "tldr": "Mint.com may transfer your data as part of a business transfer"
+    "tldr": "Mint.com puede transferir tus datos como parte de una transmisión de empresas"
   }
 }

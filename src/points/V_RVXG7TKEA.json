@@ -30,9 +30,9 @@
   },
   "tosdr": {
     "binding": true,
-    "case": "court of law is in location X",
+    "case": "El tribunal de justicia está en una ubicación X",
     "point": "neutral",
     "score": 0,
-    "tldr": "Tribunales están en Dover, Delaware tienen jurisdicción exclusiva y se aplicarán las leyes del Estado de Delaware, sin tener en cuenta su conflicto de disposiciones legales."
+    "tldr": "Tribunales ubicados en Dover, Delaware tiene urisdicción exclusiva y se aplicarán las leyes del estado de Delaware sin tener en cuenta su conflicto de disposiciones legales."
   }
 }

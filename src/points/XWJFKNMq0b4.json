@@ -5,7 +5,7 @@
     "coursera"
   ],
   "set": "set+service+and+topic",
-  "title": "Coursera can change Terms of Service without notice and with immediate effect.",
+  "title": "Coursera puede cambiar los términos de servicio sin notificarlo y con efecto inmediato",
   "topics": [
     "changes-notice"
   ],
@@ -14,6 +14,6 @@
     "case": "user needs to rely on tosback.org",
     "point": "bad",
     "score": 70,
-    "tldr": "Coursera reserve the right to change or modify the Terms of Use at their sole discretion at any time."
+    "tldr": "Coursera reserva el derecho a cambiar o modificar los términos de uso a su discreción en cualquier momento."
   }
 }

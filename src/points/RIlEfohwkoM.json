@@ -5,7 +5,7 @@
     "kippt"
   ],
   "set": "set+service+and+topic",
-  "title": "Kippt may change their privacy policy without prior notice",
+  "title": "Kippt puede cambiar su política de privacidad sin previo aviso",
   "topics": [
     "changes-notice"
   ],
@@ -14,6 +14,6 @@
     "case": "user needs to rely on tosback.org",
     "point": "bad",
     "score": 70,
-    "tldr": "Kippt may change its privacy policy without prior notice, and consider you to have accepted if you continue to use the service."
+    "tldr": "Kippt puede cambiar su política de privacidad sin previo aviso, y considerar que has aceptado si continúas usando el servicio."
   }
 }

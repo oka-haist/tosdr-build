@@ -4,7 +4,7 @@
   "services": [
     "microsoft"
   ],
-  "title": "Bing uses web beacons to track you across the internet",
+  "title": "Bing utiliza balizas web para seguirte a través de Internet",
   "topics": [
     "cookies"
   ],
@@ -13,6 +13,6 @@
     "case": "tracks you on other websites",
     "point": "bad",
     "score": 60,
-    "tldr": "Bing may place web beacons on other sites to develop statistics on how often clicking on an advertisement on a Microsoft site results in a purchase or other action on the advertiser's site."
+    "tldr": "Bing puede colocar balizas web en otros sitios para desarrollar estadísticas sobre la frecuencia que se hace clic en un anuncio en un sitio de Microsoft resultados en una compra u otra acción en el sitio del anunciante."
   }
 }

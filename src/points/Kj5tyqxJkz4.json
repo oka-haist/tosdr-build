@@ -16,7 +16,7 @@
   "source": {
     "terms": "http://en.gravatar.com/site/terms-of-service"
   },
-  "title": "Broad copyright license to perform the service",
+  "title": "Amplia licencia de copyright para llevar a cabo el servicio",
   "topics": [
     "copyright-scope"
   ],
@@ -25,6 +25,6 @@
     "case": "broader than necessary",
     "point": "bad",
     "score": 50,
-    "tldr": "The copyright license you grant is perpetual and irrevocable and includes rights “e.g. to use, modify, reproduce, distribute, prepare derivative works of, display, perform, and otherwise fully exercise and exploit all intellectual property, publicity, and moral rights with respect to any User Submissions, and to allow others to do so” which is defined as a right to perform the Services."
+    "tldr": "La licencia de copyright que te concede es perpetua e irrevocable e incluye los derechos “por ejemplo, usar, modificar, reproducir, distribuir, preparar trabajos derivados, mostrar, ejecutar, y el ejercicio de otra manera plena y explotar toda la propiedad intelectual, publicidad, y los derechos morales con respecto a cualquier archivo de usuario, y permitir que otros lo hagan”, que es definido como un derecho a la prestación de los Servicios."
   }
 }
