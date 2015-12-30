@@ -16,7 +16,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "You must use your real name to register",
+  "title": "Debes usar tu nombre real para registrarte",
   "topics": [
     "track"
   ],
@@ -25,6 +25,6 @@
     "case": "no pseudonym allowed (relevant for billing)",
     "point": "neutral",
     "score": 0,
-    "tldr": "When registering for Cloudant and creating your username and password, you must provide true, accurate, current, and complete information. This includes a real name."
+    "tldr": "Cuando estás registrando en Cloudant y creando tu nombre de usuario y contraseña, debes proporcionar el verdadero, corriente y completar la información. Esto incluye un nombre real."
   }
 }

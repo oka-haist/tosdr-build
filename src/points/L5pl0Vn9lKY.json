@@ -14,17 +14,17 @@
   ],
   "source": {
     "faq": "",
-    "terms": ""
+    "terms": "Los Términos y política de privacidad de las páginas están organizadas y con formato."
   },
-  "title": "Terms and privacy policy pages are organized and formatted well.",
+  "title": "",
   "topics": [
     "readability"
   ],
   "tosdr": {
     "binding": true,
-    "case": "easy to read",
+    "case": "facil de leer",
     "point": "good",
     "score": 10,
-    "tldr": "Index at the top with links to #anchors down the page. The pages are long, but the index helps alleviate that a lot."
+    "tldr": "Índice en la parte superior con enlaces a abajo de la página. Las páginas son largas, pero el índice de ayuda lo alivia mucho."
   }
 }

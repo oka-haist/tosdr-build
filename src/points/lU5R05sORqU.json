@@ -16,7 +16,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "You must own or have rights to the data you store",
+  "title": "Debes poseer o tener derechos de los datos que almacenas",
   "topics": [
     "governance"
   ],
@@ -25,6 +25,6 @@
     "case": "you are responsible for what you publish",
     "point": "neutral",
     "score": 10,
-    "tldr": "You can't upload, or help others upload, any content that infringes any patent, trademark, trade secret, or other proprietary rights or contractual rights of anyone."
+    "tldr": "No puedes cargar, o ayudar a otros a subir, cualquier contenido que infrinja cualquier patente, marca, secreto comercial, u otros derechos de propiedad o derechos contractuales de nadie."
   }
 }

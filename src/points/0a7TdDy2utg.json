@@ -4,7 +4,7 @@
   "services": [
     "kolabnow"
   ],
-  "title": "KolabNow is very strict when providing access to Lawful Interception requests",
+  "title": "KolabNow es muy estricto cuando proporcionan acceso a una solicitud de interceptación legal",
   "topics": [
     "law-gov"
   ],
@@ -13,6 +13,6 @@
     "case": "no third-party access without a warrant",
     "point": "good",
     "score": 50,
-    "tldr": "KolabNow is very strict when granting access to a Lawful Interception request. All information relating to these requests is anonymized by the authorities themselves, and they also provide spreadsheets which allow you to control how the request is approved. KolabNow also keeps a running total of the number of requests received, granted, and denied on their Privacy Policy page. The number for all was 0 as of August 1, 2013."
+    "tldr": "KolabNow es muy estricto cuando garantizan acceso a una solocitud de interceptación legal. Toda información relacionada a esta solicitud es anónima por las propias autoridades, y también ellos proporcionan hojas de cálculo que te permiten controlar en que se apruebe la solicitud. KolabNow también mantiene el número de solicitudes recibidas, concedidas y denegadas en su página de Políticas de Privacidad. El número era 0 a partir del 1 de agosot de 2013."
   }
 }

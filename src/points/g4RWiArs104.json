@@ -6,15 +6,15 @@
     "duckduckgo"
   ],
   "source": "http://donttrack.us/",
-  "title": "No Tracking",
+  "title": "No hay seguimiento",
   "topics": [
     "track"
   ],
   "tosdr": {
     "binding": true,
-    "case": "no tracking",
+    "case": "no hay seguimiento",
     "point": "good",
     "score": 100,
-    "tldr": "DuckDuckGo doesn't save <em>your</em> searches and doesn't send your searches to other sites. No personal information is saved either. No cookies are used by default, but cookies can be saved on your computer for some features (e.g. settings). “We also save searches, but again, not in a personally identifiable way, as we do not store IP addresses or unique User agent strings. We use aggregate, non-personal search data to improve things like misspellings.”"
+    "tldr": "DuckDuckGo no guarda <em>tus</em> búsquedas y no las envia a otros sitios. No guarda ninguna información personal.No se utilizan cookies por defecto, pero las cookies se pueden guardar en tu ordenador para algunas funciones (por ejemplo, ajustes).'Guardamos algunas búsquedas, pero de nuevo, de forma anónima, nosotros no almacenamos direcciones IP o identificadores de usuario. Utilizamos agregados, los datos de búsqueda no personales para mejorar cosas como faltas de ortografía'.”"
   }
 }

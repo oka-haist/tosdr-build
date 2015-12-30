@@ -11,7 +11,7 @@
   "source": {
     "terms": "http://www.facebook.com/legal/terms"
   },
-  "title": "You can give comments before changes",
+  "title": "Puedes dar comentarios después de los cambios",
   "topics": [
     "changes-involvement",
     "governance"
@@ -21,6 +21,6 @@
     "case": "user feedback is invited",
     "point": "good",
     "score": 10,
-    "tldr": "Facebook gives you an opportunity to comment on changes. <em>(In 2012, Facebook <a href=\"https://github.com/tosdr/tosback2/commit/768ec27f8f8e0ce4e3de4cd7e8356f221b037758?diff=split#diff-a46e598d293b63dc57f2aa089ce7762eL194\">changed their terms of service</a>. Before that, you could also vote against the changes (even though the results were <strong>not binding</strong> unless 30% of the active users voted). Now, there is no vote any more.)</em>"
+    "tldr": "Facebook te da la oportunidad de comentar sobre los cambios. <em> (En 2012, Facebook <a href=\"https://github.com/tosdr/tosback2/commit/768ec27f8f8e0ce4e3de4cd7e8356f221b037758?diff=split#diff-a46e598d293b63dc57f2aa089ce7762eL194\">cambiado sus términos de servicio</a>. Antes de eso, también se puede votar en contra de los cambios (a pesar de que los resultados eran <strong> no vinculante </strong> menos del 30% de los usuarios activos votó). Ahora, no hay más votos.) </em>"
   }
 }

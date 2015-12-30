@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant will provide an exported copy of your data in the event of termination",
+  "title": "Cloudant proporcionará una copia exportada de tus datos en caso de rescisión",
   "topics": [
     "ownership",
     "personal-data"
@@ -25,6 +25,6 @@
     "case": "they provide a way to export your data",
     "point": "good",
     "score": 30,
-    "tldr": "In the event of termination, and upon a written request which can be in the form of an email, Cloudant will provide you with a copy of your data in an open format. However, Subscribers are liable for any bandwidth costs associated with the archiving/exporting process."
+    "tldr": "En caso de rescisión, y previa solicitud por escrito que puede ser en forma de email, Cloudant le proporcionará una copia de sus datos en un formato abierto. Sin embargo, los suscriptores son responsables de los costes de ancho de banda asociados con el proceso de archivado / exportación."
   }
 }

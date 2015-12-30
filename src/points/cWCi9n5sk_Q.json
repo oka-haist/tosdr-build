@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "No spidering or crawling",
+  "title": "Sin rastreo o crawling",
   "topics": [
     "governance"
   ],
@@ -24,6 +24,6 @@
     "case": "no spidering or crawling",
     "point": "neutral",
     "score": 10,
-    "tldr": "Cloudant users are not allowed to use anything to copy or reproduce the Hosting Platform, including using robots, spiders, other automatic processing program, or other manual process. Cloudant users also cannot assist others in doing the above."
+    "tldr": "Los usuarios de Cloudant no están autorizados a utilizar cualquier cosa para copiar o reproducir la Plataforma Hosting, incluyendo el uso de robots, arañas, otros programas de procesamiento automático, u otro proceso manual. Los usuarios de Cloudant tampoco pueden ayudar a otros a hacer lo anterior."
   }
 }

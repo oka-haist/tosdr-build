@@ -11,7 +11,7 @@
   "source": {
     "tos": "https://kolabnow.com/tos"
   },
-  "title": "No third-parties access to your data without a duly authorized judicial Swiss warrant",
+  "title": "Las terceras partes no accedes a tus datos sin una orden judicial suiza",
   "topics": [
     "law-gov",
     "third"
@@ -21,6 +21,6 @@
     "case": "no third-party access without a warrant",
     "point": "good",
     "score": 50,
-    "tldr": "“This Service is subject to the national laws of Switzerland and we do our best to provide you with the maximum level of privacy in this legislation. That means there will be no access to your data by third parties without a duly authorized warrant issued by a Swiss judge.”"
+    "tldr": "“Este servicio es su sujeto por las leyes suizas y hacemos todo lo posible para ofrecerte el maximo nivel de privacidad en esta legislación. Esto significa que no habra acceso a tus datos por parte de terceros sin un orden judicial debidamente autorizado por un juez suizo.”"
   }
 }

@@ -1,30 +1,31 @@
 {
   "discussion": "https://groups.google.com/d/topic/tosdr/Ytlp8YaeBr4/discussion",
+  "fuente": {
+    "condiciones": "",
+    "faq": ""
+  },
   "id": "Ytlp8YaeBr4",
   "meta": {
     "author": "ToS;DR project",
     "contributors": [
       "see mailing list discussion"
     ],
-    "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "licencia-para-este-archivo": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "spec-version": "1.1"
   },
-  "services": [
+  "servicios": [
     "rapidshare"
   ],
-  "source": {
-    "faq": "",
-    "terms": ""
-  },
-  "title": "Rapidshare guarantees 99.5% availability",
-  "topics": [
-    "guarantee"
+  "temas": [
+    "garantia"
   ],
+  "titulo": "Rapidshare garantiza 99.5% de disponibilidad",
   "tosdr": {
     "binding": true,
-    "case": "99.X% availability",
-    "point": "good",
-    "score": 10,
-    "tldr": "https://www.rapidshare.com/#!rsag_tou\n> Primarily, RapidShare shall provide the functions listed in Number I. (1) 24 hours a day and seven days a week. This accessibility can be guaranteed at a monthly average availability rate of 99.5%. Periods, during which the server cannot be accessed via the internet due to technical issues or other problems, which are not within the sphere of influence of RapidShare (third party faults, force majeure, etc.), are excluded."
+    "caso": "99.X% disponibilidad",
+    "punto": "malo",
+    "puntuación": 10,
+    "tldr": "https://www.rapidshare.com/#!rsag_tou\n> Principalmente, RapidShare deberá proporcionar las funciones enumeradas en el número I. (1) 24 horas al dia y site dias a la semana. Esta accesibilidad se puede garantizar a una tasa de disponibilidad media mensual de 99,5%. Los períodos durante los cuales el servidor no se puede acceder a través de Internet debido a problemas técnicos u otros problemas, que no están dentro de la esfera de influencia de RapidShare (fallos de terceros, fuerza mayor, etc.), están excluidos.",
+    "unión": true
   }
 }

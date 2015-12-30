@@ -11,16 +11,16 @@
   "source": {
     "privacy": "http://info.yahoo.com/privacy/us/yahoo/flickr/details.html"
   },
-  "title": "Flickr lets you choose a copyright license",
+  "title": "Flickr te permite elegir una licencia de derechos de autor",
   "topics": [
     "user-choice",
     "copyright-scope"
   ],
   "tosdr": {
     "binding": true,
-    "case": "you can choose the copyright license",
+    "case": "Puedes elegir una licencia de derechos de autor",
     "point": "good",
     "score": 10,
-    "tldr": "The copyright license granted to Yahoo for photos, graphics, audio and video is limited “solely for the purpose for which such Content was submitted or made available”. In addition, Flickr integrates a set of Creative Commons licenses you can choose from."
+    "tldr": "La licencia de derechos de autor concedida a Yahoo para las fotos , imágenes, audio y video es limitada “el único fin para el que fue enviado o puesto a disposición dicho Contenido”. Además , Flickr integra un conjunto de licencias Creative Commons entre las que puedes elegir."
   }
 }

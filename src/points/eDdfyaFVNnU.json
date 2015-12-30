@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant transfers hosted and personal info if Cloudant is acquired by another business",
+  "title": "Cloudant transfiere el hosted y la información personal si Cloudant es adquirida por otra empresa",
   "topics": [
     "business-transfer"
   ],
@@ -24,6 +24,6 @@
     "case": "may sell your data in merger",
     "point": "bad",
     "score": 20,
-    "tldr": "If Cloudant, any of their affiliated companies, their assets, or the assets of their affiliated companies, are acquired by another business, they expect any hosted, personal, and billing information to be transferred (along with their other business assets) to the new business."
+    "tldr": "Si Cloudant, cualquiera de sus compañías afiliadas, sus activos, o los activos de sus empresas asociadas, son adquiridos por otra empresa,  esperan cualquier hosted,personal, y la información de facturación sean transferidos (junto con sus otros activos de la empresa) a la nueva empresa."
   }
 }

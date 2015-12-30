@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant won't share you data with third parties",
+  "title": "Cloudant no compartirá datos con terceros",
   "topics": [
     "copyright-scope",
     "third"
@@ -25,6 +25,6 @@
     "case": "limited for purpose of same service",
     "point": "good",
     "score": 80,
-    "tldr": "They do not permit any third party or entity access to confidential information, including (without limitation) user subscription data. They only permit third party access as required to provide their services."
+    "tldr": "Ellos no permiten que ningún tercero o entidad de acceso a la información confidencial, incluyendo (sin limitación) los datos de suscripción del usuario. Ellos sólo permiten el acceso de terceros cuando sea necesario para prestar sus servicios."
   }
 }

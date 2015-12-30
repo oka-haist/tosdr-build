@@ -4,7 +4,7 @@
   "services": [
     "kolabnow"
   ],
-  "title": "MyKolab doesn't sell your personal data",
+  "title": "MyKolab no vende tus datos personales",
   "topics": [
     "personal-data"
   ],
@@ -13,6 +13,6 @@
     "case": "personal data is not sold",
     "point": "good",
     "score": 25,
-    "tldr": "MyKolab's only source of revenue is the monthly fee paid by subscribers. This means that they don't sell advertising, which could place unwanted cookies and web beacons, nor do they sell your personal data."
+    "tldr": "La única fuente de ingresos de MyKolab es la cuota mensual de sus abonados. Esto significa que no venden publicidad, que podría colocar cookies no deseadas y web balizadas, tampoco venden tus datos personalesnor."
   }
 }

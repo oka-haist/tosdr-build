@@ -1,30 +1,31 @@
 {
   "discussion": "https://groups.google.com/d/topic/tosdr/hlI-572bFho/discussion",
+  "fuente": {
+    "condiciones": "",
+    "faq": ""
+  },
   "id": "hlI-572bFho",
   "meta": {
     "author": "ToS;DR project",
     "contributors": [
       "see mailing list discussion"
     ],
-    "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "licencia-para-este-archivo": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "spec-version": "1.1"
   },
-  "services": [
+  "servicios": [
     "rapidshare"
   ],
-  "source": {
-    "faq": "",
-    "terms": ""
-  },
-  "title": "Rapidshare won't share information to a requesting authority without a legal basis",
-  "topics": [
+  "temas": [
     "law-gov"
   ],
+  "titulo": "Rapidshare no compartirá información a una autoridad requirente sin base jurídica",
   "tosdr": {
     "binding": true,
-    "case": "no third-party access without a warrant",
-    "point": "good",
-    "score": 50,
-    "tldr": "https://www.rapidshare.com/#!rsag_ppolicy\n> If we are legally obliged to turn over information about the origin of a file, we will fulfil that obligation. The legal circumstances will be evaluated individually in each case by our legal department. Without a founded legal basis, no information will be given to a requesting authority."
+    "caso": "sin acceso de terceros sin una orden judicial",
+    "punto": "malo",
+    "puntuación": 50,
+    "tldr": "https://www.rapidshare.com/#!rsag_ppolicy\n> Si estamos legalmente obligados a entregar información sobre el origen de un archivo, vamos a cumplir con esa obligación. Las circunstancias legales serán evaluados de forma individual en cada caso por nuestro departamento legal. Sin una base legal fundada, ninguna información se dará a una autoridad requirente.",
+    "unión": true
   }
 }

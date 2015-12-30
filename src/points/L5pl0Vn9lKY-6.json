@@ -16,16 +16,16 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Netflix uses 3rd party advertisers that use tracking cookies to target ads.",
+  "title": "Netflix utiliza cookies de seguimiento para orientar los anuncios a terceros anunciantes.",
   "topics": [
     "cookies",
     "third"
   ],
   "tosdr": {
     "binding": true,
-    "case": "sets third-party cookies and/or ads",
+    "case": "establece cookies y/o anuncios de terceros",
     "point": "bad",
     "score": 10,
-    "tldr": "We use third-party advertising companies to serve ads. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies click here ."
+    "tldr": "Nosotros usamos compañías de publicidad de terceros para servir anuncios. Estas compañías pueden utilizar información sobre tus visitas a este y otros sitios web con el fin de proporcionar anuncios sobre bienes y servicios de interés para ti. Si deseas obtener más información sobre esta práctica y conocer tus opciones para impedir que esta información utilizadas por estas empresas, haga clic aquí."
   }
 }

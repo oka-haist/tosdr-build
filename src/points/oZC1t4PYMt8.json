@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Choice of Law is Massachusetts",
+  "title": "La elección de la ley es de Massachusetts",
   "topics": [
     "jurisdiction-law"
   ],
@@ -24,6 +24,6 @@
     "case": "court of law is in location X",
     "point": "neutral",
     "score": 0,
-    "tldr": "Cloudant's Terms of Service, and any disputes that arise directly or indirectly from them, will be governed by the laws of the State of Massachusetts."
+    "tldr": "Los Términos de Servicio de Cloudant, y cualquier disputa que surja directa o indirectamente de ellos, se regirán por las leyes del Estado de Massachusetts."
   }
 }

@@ -16,7 +16,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "Cloudant will provide some integration assistance at no cost.",
+  "title": "Cloudant proporcionará alguna ayuda de integración sin coste.",
   "topics": [
     "user-info"
   ],
@@ -25,6 +25,6 @@
     "case": "free help desk is provided",
     "point": "neutral",
     "score": 10,
-    "tldr": "During the time you're a Subscriber to Cloudant's services, they will provide some number of hours of integration coding consulting at no cost if you request them."
+    "tldr": "Durante el tiempo que eres un suscriptor de los servicios de Cloudant, proporcionarán un número determinado de horas de la integración de codificación de consultoría sin costo si se les solicita."
   }
 }

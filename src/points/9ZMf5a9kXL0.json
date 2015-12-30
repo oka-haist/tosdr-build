@@ -11,7 +11,7 @@
   "source": {
     "tos": "https://kolabnow.com/tos"
   },
-  "title": "Only the necessary logs and debug information are kept",
+  "title": "Sólo la información necesaria de los registros y de la depuración se mantienen",
   "topics": [
     "logs-length"
   ],
@@ -20,6 +20,6 @@
     "case": "only necessary logs are kept",
     "point": "good",
     "score": 90,
-    "tldr": "“We will only keep the minimum of logs and debug information necessary to ensure that we can improve the service and resolve issues that may have occurred. The Service employs a state-of-the art security-centric design of which we make use of to provide the Service.”"
+    "tldr": "“Mantendremos el mínimo de la información necesaria de registros y depuración para asegurar que podemos mejorar el servicio y resolver los problemas que puede haber ocurrido. El servicio emplea un diseño state-of-the art security-centric que nosotros usamos para promover el Servicio.”"
   }
 }

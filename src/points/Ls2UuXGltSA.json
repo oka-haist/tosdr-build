@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://cloudant.com/terms/"
   },
-  "title": "You don't grant any copyright license to Cloudant",
+  "title": "No concedes ninguna licencia de derechos de autor a Cloudant",
   "topics": [
     "copyright-scope"
   ],
@@ -24,6 +24,6 @@
     "case": "you publish under a free license, not a bilateral one",
     "point": "good",
     "score": 90,
-    "tldr": "Users retain ownership of all of their data, including design documents. This includes, without limitation, proprietary rights. Cloudant doesn't have any right to copy, transfer, sell, disclose, license, alter, or otherwise use user data for any purpose."
+    "tldr": "Los usuarios conservan la propiedad de todos sus datos, incluyendo los documentos de diseño. Esto incluye, sin limitación, los derechos de propiedad. Cloudant no tiene ningún derecho a copiar, transferir, vender, divulgar, licenciar, alterar o utilizar de otro modo los datos del usuario para cualquier propósito."
   }
 }

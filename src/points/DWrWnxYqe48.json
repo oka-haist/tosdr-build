@@ -6,7 +6,7 @@
     "contributors": [
       "see mailing list discussion"
     ],
-    "license-for-this-file": "This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
+    "licencia-para-este-archivo": "Este trabajo está licenciado bajo la licencia Creative Commons Unported Attribution-ShareAlike 3.0. Para ver una copia de esta licencia, visite http://creativecommons.org/licenses/by-sa/3.0/ o enviar una carta a Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, .USA",
     "spec-version": "1.1"
   },
   "services": [
@@ -16,15 +16,15 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Rapidshare does not index or open the files",
+  "title": "Rapidshare no indexa o abre los archivos",
   "topics": [
     "personal-data"
   ],
   "tosdr": {
     "binding": true,
-    "case": "they do not index or open files",
+    "case": "No índixan o abren archivos",
     "point": "good",
     "score": 40,
-    "tldr": "https://www.rapidshare.com/#!rsag_tou\n> The files saved with RapidShare are treated confidentially. RapidShare does not provide any search function, with which RapidShare’s infrastructure can be searched. RapidShare does not scan or open the files of its users. The files are not catalogued nor listed in tables of contents by RapidShare. Only the owner of the account has the possibility to allow the access to his files.\nhttps://www.rapidshare.com/#!rsag_ppolicy\n> Nobody can access your files without knowledge of the complete download link. This does also apply to RapidShare employees. There is no software that will scan your files for certain patterns or the like."
+    "tldr": "https://www.rapidshare.com/#!rsag_tou\n> Los archivos guardados con RapidShare son tratados de forma confidencial. RapidShare no proporciona ninguna función de búsqueda, con el que la infraestructura de RapidShare se puede buscar. RapidShare no escanea o abre los archivos de sus usuarios. Los archivos no están catalogados ni se enumeran en las tablas de contenido por RapidShare. Sólo el propietario de la cuenta tiene la posibilidad de permitir el acceso a sus archivos.\nhttps://www.rapidshare.com/#!rsag_ppolicy\n> Nadie puede acceder a sus archivos sin conocer el enlace de descarga completa. Esto también se aplica a los empleados de RapidShare. No hay software que va a escanear los archivos para ciertos patrones o similares."
   }
 }
