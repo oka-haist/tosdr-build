@@ -4,7 +4,7 @@
   "services": [
     "disqus"
   ],
-  "title": "Disqus will help you react to others infringing on your copyright",
+  "title": "Disqus te ayudará a reaccionar ahacia los demás por infringir tus derechos de autor",
   "topics": [
     "copyright-scope"
   ],
@@ -13,6 +13,6 @@
     "case": "they will help you react to others infringing on your copyright",
     "point": "good",
     "score": 50,
-    "tldr": "Disqus will respond to alleged infringement notices that comply with the Digital Millennium Copyright Act."
+    "tldr": "Disqus responderá a presuntos avisos de infracción que cumplen con la Digital Millennium Copyright Act."
   }
 }

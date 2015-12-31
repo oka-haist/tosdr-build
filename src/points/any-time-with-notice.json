@@ -16,7 +16,7 @@
     "500px",
     "tumblr"
   ],
-  "title": "Los Terminos pueden cambiar en cualquier momento pero seras notificado.",
+  "title": "Los Términos pueden cambiar en cualquier momento pero serás notificado.",
   "topics": [
     "changes-notice"
   ],
@@ -25,6 +25,6 @@
     "case": "user is notified on the day",
     "point": "neutral",
     "score": 0,
-    "tldr": "Pueden cambiar las condiciones del servicio en cualquier momento que consideren oportuno, pero se notificaran al usuario. La utilización del servicio supuestamente implica la aceptación de los cambios en los términos."
+    "tldr": "Pueden cambiar las condiciones del servicio en cualquier momento que consideren oportuno, pero se notificarán al usuario. La utilización del servicio supuestamente implica la aceptación de los cambios en los términos."
   }
 }

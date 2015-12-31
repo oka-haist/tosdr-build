@@ -4,7 +4,7 @@
   "services": [
     "skype"
   ],
-  "title": "You agree never to publish reputation-damaging opinions about Skype",
+  "title": "Acuerdas a nunca publicar opiniones de reputación perjudiciales sobre Skype",
   "topics": [
     "governance"
   ],
@@ -13,6 +13,6 @@
     "case": "you may not express negative opinions about them",
     "point": "bad",
     "score": 40,
-    "tldr": "When signing up as a Skype user, you agree you will never publish a link to the Skype Website that damages their reputation."
+    "tldr": "Al registrarse como usuario de Skype, estás de acuerdo a nunca publicar un enlace al Sitio Web de Skype que daña su reputación."
   }
 }

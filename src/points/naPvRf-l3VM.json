@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "they can remove your account after complaints",
+  "title": "Pueden eliminar tu cuenta después de las quejas",
   "topics": [
     "suspension"
   ],
@@ -25,6 +25,6 @@
     "case": "they can suspend your account for several reasons",
     "point": "neutral",
     "score": 15,
-    "tldr": "If we get \nabuse information concerning any files hosted on OwnCube, we will \ninform the corresponding user about it and give him/her the \nopportunity to remove the relevant data IMMEDIATELY. If the files are \nnot removed within ONE day, we claim the right to remove the user's \naccount."
+    "tldr": "Si obtenemos información sobre el abuso en relación con todos los archivos alojados en OwnCube, informaremos al usuario correspondiente al respecto y daremos a él/ella la oportunidad de eliminar los datos pertinentes INMEDIATAMENTE. Si los archivos no se eliminan en un solo día, reivindicamos el derecho de quitar la cuenta del usuario."
   }
 }

@@ -4,7 +4,7 @@
   "services": [
     "flattr"
   ],
-  "title": "Flattr allows third-party cookies",
+  "title": "Flattr permite cookies de terceros",
   "topics": [
     "cookies"
   ],
@@ -13,6 +13,6 @@
     "case": "sets third-party cookies and/or ads",
     "point": "bad",
     "score": 10,
-    "tldr": "Flattr allows their advertisers to use cookies on the Flattr site. This allows these third parties to track you and collect information on your browsing habits."
+    "tldr": "Flattr permite a sus anunciantes utilizan cookies en el sitio Flattr. Esto permite que estos terceros para seguirte y recoger información sobre tus hábitos de navegación."
   }
 }

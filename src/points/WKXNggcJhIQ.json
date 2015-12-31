@@ -5,7 +5,7 @@
     "jagex"
   ],
   "set": "set+service+and+topic",
-  "title": "For paying users, TOS and Privacy Policy changes don't apply until the next renewal date",
+  "title": "Para el pago de los usuarios, términos de servicios y política de privacidad los cambios no se aplican hasta la próxima fecha de renovación",
   "topics": [
     "changes-notice"
   ],
@@ -14,6 +14,6 @@
     "case": "user is notified a week or more in advance",
     "point": "good",
     "score": 30,
-    "tldr": "If you are a subscriber, Jagex will treat the first renewal date of your subscription after the changes as your acceptance of the changes."
+    "tldr": "Si eres un suscriptor, Jagex tratará a la primera fecha de renovación de la suscripción después de los cambios como tu aceptación de los cambios."
   }
 }
