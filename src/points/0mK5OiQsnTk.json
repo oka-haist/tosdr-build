@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.grammarly.com/terms"
   },
-  "title": "No promise to inform about government requests",
+  "title": "No se promete no informar a las peticiones gubernamentales.",
   "topics": [
     "law-gov"
   ],
@@ -24,6 +24,6 @@
     "case": "no promise to inform/notify",
     "point": "bad",
     "score": 50,
-    "tldr": "Although Grammarly may disclose your personal information in light of a subpoena, or when they believe in good faith that it is necessary to protect their rights or yours, for example, they make no promise to inform users about such a request and/or disclosure."
+    "tldr": "Aunque Grammarly puede divulgar su información personal en caso de una citación judicial, o cuando crean de buena fe que esto sea necesario para proteger sus derechos o los suyos, por ejemplo, ellos pueden no hacen promesa de informar a los usuarios sobre una solicitud y/o divulgacion."
   }
 }

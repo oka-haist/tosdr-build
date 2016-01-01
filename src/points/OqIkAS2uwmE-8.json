@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "You may not scrape the site",
+  "title": "No puede arañar el sitio.",
   "topics": [
     "ownership"
   ],
@@ -25,6 +25,6 @@
     "case": "you may not scrape",
     "point": "bad",
     "score": 20,
-    "tldr": "\"your rights do not include: (i) publicly performing or publicly displaying the Service, (ii) modifying or otherwise making any derivative uses of the Service or any portion thereof; (iii) using any data mining, robots or similar data gathering or extraction methods; (iv) downloading (other than page caching) of any portion of the Service or any information contained therein; (v) reverse engineering or accessing the Service in order to build a competitive product or service; or (vi) using the Service other than for its intended purposes.\". This seems to include content published on there by users other than yourself."
+    "tldr": "\"Sus derechos no incluyen: (i) realizar publicamente o enseñar publicamente el Servicio, (ii) modificar o hacer lo contrario de cualquier uso derivado del servicio o alguna parte del mismo; (iii) usar cualquier minería de datos, robots o recopilacion y extración de datos por métodos similares; (iv) descargar (otra cosa que cache de las páginas) de cualquier parte del Servicio o cualquier información contenida en el mismo; (v) ingeniería inversa o acceder al Servicio a fin de construir un producto o servicio competitivo; ó (vi) usar el servicio para otros fines que no sean los previstos.\". Esto incluye contenido publicado allí por otros usuarios que no sea usted."
   }
 }

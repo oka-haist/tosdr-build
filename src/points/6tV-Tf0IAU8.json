@@ -16,7 +16,7 @@
   "source": {
     "terms": "http://privacy-policy.truste.com/verified-policy/www.grammarly.com"
   },
-  "title": "Grammarly does not notify users before being involved in a merger, sale, or acquisition",
+  "title": "Grammarly no notifica a los usuarios antes de participar en una fusión, venta o adquisición.",
   "topics": [
     "business-transfer"
   ],
@@ -25,6 +25,6 @@
     "case": "may sell your data in merger",
     "point": "bad",
     "score": 20,
-    "tldr": "Grammarly does not inform users before being involved in a merger, sale, or acquisition. They do, however, notify users via email and post a notice on their site regarding any choices you may have regarding your personal information."
+    "tldr": "Grammarly no informa a los usuarios antes de participar en una fusión, venta o adquisición. Ellos, sin embargo, notifican a los usuarios via email y publicando un aviso en su sitio con respecto a cualquier decisión que tenga que ver con su información personal."
   }
 }

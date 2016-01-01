@@ -4,7 +4,7 @@
   "services": [
     "tumblr"
   ],
-  "title": "Tumblr get a limited but eternal copyright license on your creations",
+  "title": "Tumblr obtiene una propiedasd limitada pero eterna con sus creaciones.",
   "topics": [
     "copyright-scope"
   ],
@@ -13,6 +13,6 @@
     "case": "keep a license even after you close your account",
     "point": "bad",
     "score": 25,
-    "tldr": "When you post something on Tumblr, others may choose to comment on it, making your content part of a social conversation in which Tumblr will never have to erase your original post, not even if you close your account."
+    "tldr": "Cuando publicas algo en Tumblr,otros pueden elegir por comentarlo, haciendo su contenido parte de una conversación social en la que Tumblr nunca tendrá que borrar el post original, ni siquiera cuando cierre su cuenta."
   }
 }

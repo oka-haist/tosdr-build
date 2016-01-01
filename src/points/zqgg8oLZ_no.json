@@ -11,7 +11,7 @@
   "source": {
     "terms": "https://alpha.app.net/legal/terms/"
   },
-  "title": "Changes can happen at any time and sometimes without notice.",
+  "title": "Los cambios pueden ocurrir en cualqueir momento y a veces sin avisar.",
   "topics": [
     "changes-notice"
   ],
@@ -20,6 +20,6 @@
     "case": "user needs to rely on tosback.org",
     "point": "bad",
     "score": 70,
-    "tldr": "Changes to the terms are considered accepted and effective <strong>either</strong> 5 days after they are published on the website, <em>or</em> when they notify you, <em>or</em> when you accept them."
+    "tldr": "Los cambios de los terminos son considerados aceptados y efectivos <strong>ó bien</strong> 5 días despues de su publicación en la web, <em>ó</em> o cuando se le notifiquen, <em>ó</em> cuando lo acepte."
   }
 }
