@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "You are responsible for what you upload",
+  "title": "Usted es responsable de lo que sube",
   "topics": [
     "governance"
   ],
@@ -25,6 +25,6 @@
     "case": "you are responsible for what you publish",
     "point": "neutral",
     "score": 10,
-    "tldr": "Some types of content are not allowed. specifically (the blog post mentions this further down under 'Copyright'), if you post copyrighted material to which you have no license, they will take it down and close your account"
+    "tldr": "Algun tipo de contenido no esta permitido. concretamente (la entrada del blog mencionado esta más abajo de la sección 'Copyright'), si publica material con Copyright el cual no tiene licencia, será dado de baja y cerrada la cuenta."
   }
 }

@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Court of law is California",
+  "title": "El tribunal es de California",
   "topics": [
     "jurisdiction-law"
   ],
@@ -25,6 +25,6 @@
     "case": "court of law is in location X",
     "point": "neutral",
     "score": 0,
-    "tldr": "Court of law is California."
+    "tldr": "El tribunal es de California."
   }
 }

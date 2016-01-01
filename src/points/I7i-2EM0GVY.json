@@ -11,7 +11,7 @@
   "source": {
     "terms": "http://app.net/terms/"
   },
-  "title": "App.net provide archives of their terms",
+  "title": "App.net proporciona archivos de sus términos",
   "topics": [
     "readability"
   ],
@@ -20,6 +20,6 @@
     "case": "archives provided",
     "point": "good",
     "score": 10,
-    "tldr": "their ToS versioning is public on github, at https://github.com/appdotnet/terms-of-service"
+    "tldr": "El control de versiónes de su ToS es público en github, en https://github.com/appdotnet/terms-of-service"
   }
 }
