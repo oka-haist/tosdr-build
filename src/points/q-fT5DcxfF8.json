@@ -4,7 +4,7 @@
   "services": [
     "tumblr"
   ],
-  "title": "You maintain ownership of your Tumblr content",
+  "title": "Usted mantiene la propiedad de su conteido de Tumblr",
   "topics": [
     "ownership"
   ],
@@ -13,6 +13,6 @@
     "case": "they state that you own your data",
     "point": "good",
     "score": 10,
-    "tldr": "Users maintain ownership of any content on their Tumblr. This is important because of the reblogging nature of Tumblr. Your content can be shared across numerous pages, but you will always own it."
+    "tldr": "Los usuarios mantienen la propiedad de cualquier conteido en su Tumblr. Esto es importante porque devido a la naturaleza de Tumblr. Su contenido puede ser compartido a través de numerosas páginas, pero siempre lo tiene."
   }
 }

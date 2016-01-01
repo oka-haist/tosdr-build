@@ -4,7 +4,7 @@
   "services": [
     "tumblr"
   ],
-  "title": "Third parties used by Tumblr are bound by confidentiality obligations",
+  "title": "Las terceras partes usadas por Tumblr están vinculadas por las obligaciones de confidencialidad.",
   "topics": [
     "third"
   ],
@@ -13,6 +13,6 @@
     "case": "third parties are bound by confidentiality obligations",
     "point": "good",
     "score": 20,
-    "tldr": "Third parties that assist Tumblr are generally bound by confidentiality obligations that forbid them to use your personal information for other purposes."
+    "tldr": "Las terceras partes que ayudan a Tumblr estan ligados, generalmente, a obligaciones de confidencialidad que les prohíben utilizar su información personal para otros propósitpos."
   }
 }
