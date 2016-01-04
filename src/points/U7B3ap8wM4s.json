@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "Spotify warns of third party uses",
+  "title": "Spotify advierte de usos de terceros",
   "topics": [
     "third"
   ],
@@ -24,6 +24,6 @@
     "case": "they educate you about the risks",
     "point": "good",
     "score": 30,
-    "tldr": "Spotify takes precautions to prohibit third party applications from attempting to identify you using information Spotify provides them. They also inform you of the possible consequences should you allow this access."
+    "tldr": "Spotify toma precauciones para prohibir las aplicaciones de terceros de intentar identificarte utilizando información que Spotify les proporciona. También te informan de las posibles consecuencias en caso de que permitir este acceso."
   }
 }

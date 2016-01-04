@@ -16,7 +16,7 @@
   "source": {
     "privacy": "http://store.steampowered.com/privacy_agreement/"
   },
-  "title": "Your personal information is not shared with third parties for marketing purposes",
+  "title": "Tu información personal no es compartida con terceros con fines de marketing",
   "topics": [
     "personal-data",
     "third"
@@ -26,6 +26,6 @@
     "case": "personal data is not sold",
     "point": "good",
     "score": 25,
-    "tldr": "No “Personally identifiable information” is shared with third parties for marketing purposes."
+    "tldr": "La “información personal identificable” no es compartida con terceros con fines de marketing."
   }
 }

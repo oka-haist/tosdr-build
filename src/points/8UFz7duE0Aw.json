@@ -16,7 +16,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "Spotify uses different agreements for special offers and community access",
+  "title": "Spotify utiliza diferentes acuerdos para ofertas especiales y acceso de la comunidad",
   "topics": [
     "readability"
   ],
@@ -25,6 +25,6 @@
     "case": "separate policies for some parts of the service",
     "point": "neutral",
     "score": 0,
-    "tldr": "Special offers and community access to customer service may use different agreements than the EULA. However, these agreements cannot contradict the EULA."
+    "tldr": "Ofertas especiales y acceso de la comunidad al servicio al cliente pueden utilizar diferentes acuerdos que el EULA. Sin embargo, estos acuerdos no pueden contradecir al EULA."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "No promise to inform about government requests",
+  "title": "Ninguna promesa de informar sobre las solicitudes gubernamentales",
   "topics": [
     "law-gov"
   ],
@@ -24,6 +24,6 @@
     "case": "no promise to inform/notify",
     "point": "bad",
     "score": 50,
-    "tldr": "Spotify does not explicitly state that they will inform users of any law or government requests regarding any personal user information."
+    "tldr": "Spotify no establece explícitamente que van a informar a los usuarios de todas las solicitudes de abogados o de gobierno con respecto a cualquier información personal del usuario."
   }
 }

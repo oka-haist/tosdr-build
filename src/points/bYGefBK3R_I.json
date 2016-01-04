@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Couchsurfing informs you about the fact that you can disable cookies",
+  "title": "Couchsurfing te informa sobre el hecho de que puedes desactivar las cookies",
   "topics": [
     "cookies",
     "user-info"
@@ -26,6 +26,6 @@
     "case": "third-party cookies, but with opt-out instructions",
     "point": "bad",
     "score": 5,
-    "tldr": "\"Cookies \nMost web browsers are set to accept cookies by default. If you prefer, \nyou can usually choose to set your browser to remove or reject browser \ncookies; however, our Services may not function properly if you do \nso.\""
+    "tldr": "\"La mayoria de las cookies de los navegadores están configuradas para aceptar las cookies por defecto. Si lo prefieres, por lo general puedes optar por configurar tu navegador para eliminar o rechazar las cookies del navegador; sin embargo, nuestros servicios pueden no funcionar correctamente si lo haces.\""
   }
 }

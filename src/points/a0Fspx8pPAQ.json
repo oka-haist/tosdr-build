@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "Spotify gives no guarantee for quality of service",
+  "title": "Spotify no da ninguna garantía de la calidad del servicio",
   "topics": [
     "guarantee"
   ],
@@ -24,6 +24,6 @@
     "case": "no quality guarantee",
     "point": "bad",
     "score": 20,
-    "tldr": "There is no guarantee of quality of service. If the service is not delivered to your expectations, you still pay for it to the extent of applicable law."
+    "tldr": "No hay ninguna garantía de calidad del servicio. Si el servicio no cumple tus expectativas, todavía pagas por ella en la medida de la ley aplicable."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "You grant perpetual license to anything you publish",
+  "title": "Concedes licencia perpetua para cualquier cosa publicada",
   "topics": [
     "scope of the copyright license"
   ],
@@ -23,6 +23,6 @@
     "binding": true,
     "point": "bad",
     "score": 80,
-    "tldr": "You grant perpetual license to use anything you publish. While the global license expires when you unsubscribe, public content will remain licensed and will not be deleted."
+    "tldr": "Concedes licencia perpetua para utilizar cualquier cosa publicada. Mientras que la licencia global expira cuando se da de baja, contenido público permanecerá con licencia y no será borrada."
   }
 }

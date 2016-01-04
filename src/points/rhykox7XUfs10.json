@@ -16,7 +16,7 @@
   "source": {
     "subscriber agreement": "http://store.steampowered.com/subscriber_agreement/"
   },
-  "title": "No refund policy",
+  "title": "Sin política de reembolso",
   "topics": [
     "guarantee"
   ],
@@ -25,6 +25,6 @@
     "case": "no refund policy",
     "point": "neutral",
     "score": 50,
-    "tldr": "“Your cancellation of an Account, or your cessation of use of any Subscription or request that access to a Subscription be terminated, will not entitle you to any refund, including of any Subscription fees.”"
+    "tldr": "“Tu cancelación de una cuenta, o de tu cese de la utilización de cualquier suscripción o solicitud de que el acceso a una suscripción har terminado, no le da derecho a ningún reembolso, incluido el de las tarifas de suscripción.”"
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "Spotify states risks of public information",
+  "title": "Spotify afirma riesgos de la información pública",
   "topics": [
     "user-info"
   ],
@@ -24,6 +24,6 @@
     "case": "info given about risk of publishing your info online",
     "point": "good",
     "score": 50,
-    "tldr": "Spotify expressly states the implications of keeping information public, and also that certain specific information (e.g., username, profile picture) may not be able to be made private."
+    "tldr": "Spotify expresamente las implicaciones de la información pública de mantenimiento, y también que cierta información específica (por ejemplo, nombre de usuario, imagen de perfil) puede no ser capaz de hacer privado."
   }
 }

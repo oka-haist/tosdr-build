@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "You can unsubscribe at any time",
+  "title": "Podrás darte de baja en cualquier momento",
   "topics": [
     "leave"
   ],
@@ -24,6 +24,6 @@
     "case": "you can leave at any time",
     "point": "good",
     "score": 15,
-    "tldr": "Spotify provides a link in order to cancel your subscription to their services, which you can do at any time. However, the cancellation takes effect after the last day of the current subscription period, so if you cancel before the end of the subscription period, Spotify will not offer you a refund."
+    "tldr": "Spotify ofrece un enlace para cancelar tu suscripción a sus servicios, lo que se puede hacer en cualquier momento. Sin embargo, la cancelación entra en vigor después de que el último día del período de suscripción actual, por lo que si cancelas antes del final del periodo de suscripción, Spotify no te ofrecerá un reembolso."
   }
 }

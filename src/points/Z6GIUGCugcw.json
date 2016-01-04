@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "Spotify provides limited solutions for software problems",
+  "title": "Spotify ofrece soluciones limitadas para problemas de software",
   "topics": [
     "guarantee"
   ],
@@ -24,6 +24,6 @@
     "case": "no quality guarantee",
     "point": "bad",
     "score": 20,
-    "tldr": "Uninstalling the software is the only possible action for users if they have any problems."
+    "tldr": "Desinstalación del software es la única acción posible para los usuarios si tienen algún problema."
   }
 }

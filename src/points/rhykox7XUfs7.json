@@ -17,7 +17,7 @@
   "source": {
     "subscriber agreement": "http://store.steampowered.com/subscriber_agreement/"
   },
-  "title": "unlimited use license on all user generated content",
+  "title": "licencia de uso ilimitado para todo el contenido generado por el usuario",
   "topics": [
     "copyright-scope"
   ],
@@ -27,6 +27,6 @@
     "point": "blocker",
     "reason": "true",
     "score": 80,
-    "tldr": "Valve has an unlimited use license on all user generated content without need for attribution. This survives termination of the agreement. Sounds pretty much the same as Facebook."
+    "tldr": "Valve tiene una licencia de uso ilimitado de todo el contenido generado por el usuario sin necesidad de atribución. Esta sobrevive a la terminación del acuerdo. Suena más o menos igual que el de Facebook."
   }
 }

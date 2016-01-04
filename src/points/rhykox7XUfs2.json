@@ -16,7 +16,7 @@
   "source": {
     "privacy": "http://store.steampowered.com/privacy_agreement/"
   },
-  "title": "May share aggregate and individual user information with other parties without restriction",
+  "title": "Puede compartir información agregada y de usuario individual con otras partes sin restricción",
   "topics": [
     "personal-data",
     "track",
@@ -27,6 +27,6 @@
     "case": "personal data is given to third parties",
     "point": "bad",
     "score": 10,
-    "tldr": "Aggregate information or individual information about a user or users' machine in a form that does not “personally identify” a user can be shared without restriction."
+    "tldr": "La información agregada o información individual de la máquina del usuario o de los usuarios en una forma que no “identifica personalmente” un usuario puede ser compartida sin restricciones."
   }
 }

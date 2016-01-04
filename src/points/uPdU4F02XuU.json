@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "Spotify informs users of changes to the privacy policy",
+  "title": "Spotify informa a los usuarios de los cambios a la política de privacidad",
   "topics": [
     "changes-notice"
   ],
@@ -24,6 +24,6 @@
     "case": "user is notified on the day",
     "point": "neutral",
     "score": 0,
-    "tldr": "Spotify informs users through the Service of any material changes to their privacy policy. They recommend users check the privacy policy for an minor changes."
+    "tldr": "Spotify informa a los usuarios a través del Servicio de cualquier cambio importante en su política de privacidad. Recomiendan a los usuarios comprobar la política de privacidad durante los cambios de menor importancia."
   }
 }

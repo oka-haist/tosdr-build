@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "You are not allowed to use a nick name",
+  "title": "No está permitido utilizar un apodo",
   "topics": [
     "track"
   ],
@@ -25,6 +25,6 @@
     "case": "pseudonym not allowed (user-to-user trust is relevant for service)",
     "point": "neutral",
     "score": 10,
-    "tldr": "you have to provide accurate, truthful, current and complete \ninformation when creating an account on CouchSurfing."
+    "tldr": "Tienes que proporcionar información precisa, veraz, actualizada y completa al crear una cuenta en CouchSurfing."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "Spotify defines intended use of your information",
+  "title": "Spotify define el uso previsto de tu información",
   "topics": [
     "user-info"
   ],
@@ -24,6 +24,6 @@
     "case": "info given about intended use of your information",
     "point": "good",
     "score": 30,
-    "tldr": "Spotify may use the information they collect to provide, personalize, and improve your experience; provide customized or localized content and advertising; make sure the Service and products are functioning properly; analyze your use of the Service; communication with you (including promotional emails or messages); promote the Service; and finally, to enforce their Privacy Policy."
+    "tldr": "Spotify puede utilizar la información que recogen para proporcionar, personalizar y mejorar tu experiencia; proporcionar contenido y publicidad personalizada o localizada; asegúrese de que el servicio y los productos funcionan correctamente; analizar tu uso del Servicio; comunicación contigo (incluyendo correos electrónicos promocionales o mensajes); promover el Servicio; y finalmente, para imponer su política de privacidad."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "Spotify may merge your current personal info with more if you participate in a Special Promotion",
+  "title": "Spotify puede combinar tu información personal actual con más si participas en una promoción especial",
   "topics": [
     "track"
   ],
@@ -24,6 +24,6 @@
     "case": "may collect extra data about you in contests",
     "point": "neutral",
     "score": 0,
-    "tldr": "If you participate in a Special Promotion (sweepstakes, contests, surveys), Spotify may ask for certain personal information in addition to what they already have. They may then combine that information with your current file."
+    "tldr": "Si participas en una promoción especial (sorteos, concursos, encuestas), Spotify podrá solicitar cierta información personal, además de lo que ya tienen. A continuación, se pueden combinar esa información con el archivo actual."
   }
 }

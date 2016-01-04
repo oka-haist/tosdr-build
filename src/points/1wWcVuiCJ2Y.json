@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Couchsurfing keeps the license on your content, even after you close your account",
+  "title": "Couchsurfing mantiene la licenci en tu contenido,incluso después de cerrar tu cuenta",
   "topics": [
     "copyright-scope"
   ],
@@ -25,6 +25,7 @@
     "case": "keep a license even after you close your account",
     "point": "bad",
     "score": 25,
-    "tldr": "\"21.7 Survival. Sections 4.4 (Release), 5 (Member Conduct and \nContent), 6 (Submissions), 10 (Trademarks), 12 (Third-Party Content), \n15 (Member's Representations and Warranties), 16 (Disclaimer of \nWarranties), 17 (Limits on Liability), 18 (Indemnity), 20 (Disputes), \nand this Section 21 (Miscellaneous) shall survive any termination or \nexpiration of these Terms.\" \nsection 5 is the one that contains the license they get on your content."
-  }
+    "tldr": "\"21.7 Supervivencia. Secciones 4.4 (Release), 5 (Conducta de los  miembros y \ncontenido), 6 (Presentaciones), 10 (Marcas), 12 (contenido de terceros), \n15 (Representaciones de miembros y Garantías), 16 (Descargo de \nGarantías), 17 (Límites de Responsabilidad), 18 (indemnización), 20 (Conflictos), \n y Sección 21 (Varios) sobrevivirán a cualquier terminación o \nespiración de estos Términos.\"\n la sección 5 es la que contiene la licencia que obtienen en tu contenido."
+  
+}
 }

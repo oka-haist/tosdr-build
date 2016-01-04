@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Promotional communications are opt-out",
+  "title": "Comunicaciones promocionales son opt-out",
   "topics": [
     "user-choice"
   ],
@@ -25,6 +25,6 @@
     "case": "promotional communications are opt-out",
     "point": "neutral",
     "score": 10,
-    "tldr": "\"You may opt out of receiving promotional emails from CouchSurfing by \nfollowing the instructions in those emails or by adjusting the \nappropriate settings in your profile.\" - this means the default is that they will send you\npromotional communications that you didn't ask them to send you."
+    "tldr": "\"Puedea optar por no recibir correos electrónicos promocionales de CouchSurfing, siguiendo las instrucciones de los mensajes de correo electrónico o mediante el ajuste de la configuración apropiada de tu perfil.\" - Esto significa que el defecto es que se te enviará comunicaciones promocionales que no pediste que te enviaran."
   }
 }

@@ -16,7 +16,7 @@
   "source": {
     "privacy": "http://store.steampowered.com/privacy_agreement/"
   },
-  "title": "Can request review and/or removal of personally identifiable info.",
+  "title": "Puede solicitar la revisión y/o eliminación de información de identificación personal.",
   "topics": [
     "personal-data"
   ],
@@ -25,6 +25,6 @@
     "case": "you can request access and deletion of personal data",
     "point": "good",
     "score": 50,
-    "tldr": "“If you are concerned about the accuracy of personally identifiable information maintained by Valve or wish to review, access, amend or correct it, or would like your personally identifiable information removed from Valve's records or otherwise deactivated, please contact us here. We may decline requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, or are extremely impractical.”"
+    "tldr": "“Si estás preocupado acerca de la exactitud de la información de identificación personal mantenida por Valve o desea revisar, acceder, modificar o corregir, o te gustaría que tu información de identificación personal fuera retirado de registros de Valve o de otro modo desactivado, por favor ponte en contacto con nosotros aquí. Podemos rechazar las solicitudes que sean irrazonablemente repetitivas, requieran un esfuerzo técnico desproporcionado, pongan en peligro la privacidad de los demás, o son muy poco prácticas.”"
   }
 }

@@ -16,7 +16,7 @@
   "source": {
     "subscriber agreement": "http://store.steampowered.com/subscriber_agreement/"
   },
-  "title": "Valve can cancel your account at any time.",
+  "title": "Valve puede cancelar tu cuenta en cualquier momento.",
   "topics": [
     "suspension"
   ],
@@ -25,6 +25,6 @@
     "case": "they can delete your account without prior notice and without a reason",
     "point": "bad",
     "score": 50,
-    "tldr": "Section 10:C “Valve may cancel your Account or any particular Subscription(s) at any time. In the event that your Account or a particular Subscription is terminated or cancelled by Valve for a violation of this Agreement or improper or illegal activity, no refund, including of any Subscription fees, will be granted.”"
+    "tldr": "Sección 10:C “Valve podrá cancelar tu Cuenta o cualquier suscripción en particular en cualquier momento. En el caso de que su Cuenta o Suscripción individual sea rescindida o cancelada por Valve para una violación de este Acuerdo o actividad inapropiada o ilegal, ningún reembolso, incluido el de las tasas de suscripción, se concederá.”"
   }
 }

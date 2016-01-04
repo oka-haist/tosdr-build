@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "The ToS are only translated into a few languages",
+  "title": "Los Términos de Utilización solamente se traducen en unos pocos idiomas",
   "topics": [
     "readability"
   ],
@@ -24,6 +24,6 @@
     "case": "translated into only a few languages",
     "point": "neutral",
     "score": 0,
-    "tldr": "Although Spotify allows users to choose their country (Andorra, Australia, Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Liechtenstein, Luxembourg, Monaco, Netherlands, New Zealand, Norway, Spain, Sweden, Switzerland, United Kingdom, United States), the terms themselves are only available in English, French, German, and Spanish."
+    "tldr": "Aunque Spotify permite a los usuarios elegir su país (Alemania, Andorra, Australia, Austria, Bélgica, Dinamarca, Finlandia, Francia, Alemania, Irlanda, Liechtenstein, Luxemburgo, Mónaco, Países Bajos, Nueva Zelanda, Noruega, España, Suecia, Suiza, Reino Unido, Estados Unidos), los propios términos sólo están disponibles en Inglés, francés, alemán y español."
   }
 }

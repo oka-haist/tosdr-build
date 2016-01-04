@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Couchsurfing may share aggregated or anonymized information that does not directly identify you.",
+  "title": "Couchsurfing puede compartir información agregada o anónima que no te identifica directamente",
   "topics": [
     "personal-data"
   ],
@@ -25,6 +25,6 @@
     "case": "personal data is aggregated into statistics",
     "point": "neutral",
     "score": 10,
-    "tldr": "\"We may also share aggregated or anonymized information that does not \ndirectly identify you.\""
+    "tldr": "\"También podemos compartir información agregada o anónima que no te identifica directamente.\""
   }
 }

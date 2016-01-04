@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "Your data is accessible to trading partners",
+  "title": "Tus datos son accesibles a los socios comerciales",
   "topics": [
     "personal-data",
     "track"
@@ -25,6 +25,6 @@
     "case": "personal data is given to third parties",
     "point": "bad",
     "score": 10,
-    "tldr": "Your data is accessible to any of Spotify's trading partners. In addition, such data isn't expressly defined in the EULA."
+    "tldr": "Tus datos son accesibles a cualquiera de los socios comerciales de Spotify. Además, estos datos no se definen expresamente en el EULA."
   }
 }

@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "Couchsurfing tracks you",
+  "title": "Couchsurfing te rastrea",
   "topics": [
     "track"
   ],
@@ -25,6 +25,6 @@
     "case": "tracking pixels used in service-to-user communication",
     "point": "neutral",
     "score": 10,
-    "tldr": "We \nmay automatically collect information using cookies, web beacons (also \nknown as \"gifs,\" \"pixel tags\" and \"tracking pixels\") and other \ntracking technologies to, among other things, improve our Services and \nyour experience, monitor user activity, count visits, understand usage \nand campaign effectiveness and tell if an email has been opened and \nacted upon. For information about removing or rejecting cookies, \nplease see \"Your Information Choices\" below.\""
+    "tldr": "Podemos recopilar información automáticamente usando cookies, web beacons (también conocido como \"gifs,\" \"pixel tags\" y \"píxeles de seguimiento\") y otras tecnologías de seguimiento, entre otras cosas, mejorar nuestros servicios y su experiencia, la actividad del usuario del monitor, el recuento de visitas, entender el uso y la campaña de eficacia y saber si un correo electrónico se ha abierto y actuar en consecuencia. Para obtener información acerca de la eliminación o rechazar las cookies, por favor ver \"Sus elecciones información\" más adelante.\""
   }
 }

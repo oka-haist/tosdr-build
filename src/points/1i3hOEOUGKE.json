@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "Spotify can delete your account without telling you",
+  "title": "Spotify puede borrar tu cuenta sin decírtelo",
   "topics": [
     "suspension"
   ],
@@ -24,6 +24,6 @@
     "case": "they can delete your account without prior notice and without a reason",
     "point": "bad",
     "score": 50,
-    "tldr": "Spotify can close your account without notice, without refund, for any or no reason."
+    "tldr": "potify puede cerrar tu cuenta sin previo aviso, sin reembolso, por cualquier motivo o sin motivo."
   }
 }

@@ -16,7 +16,7 @@
   "source": {
     "subscriber agreement": "http://store.steampowered.com/subscriber_agreement/"
   },
-  "title": "Jurisdiction: Washington (for non-EU) and Luxembourg.",
+  "title": "Jurisdicción: Washington (para fuera de la UE) y Luxemburgo.",
   "topics": [
     "jurisdiction-law"
   ],
@@ -25,6 +25,6 @@
     "case": "court of law is in location X",
     "point": "neutral",
     "score": 0,
-    "tldr": "For non-EU subscribers: the jurisdiction and the law of Washington apply. For EU subscribers, the law of Luxembourg applies. “However, where the laws of Luxembourg provide a lower degree of consumer protection than the laws of your country of residence, the consumer protection laws of your country shall prevail.”."
+    "tldr": "Para los suscriptores fuera de la UE: la jurisdicción y la ley de Washington se aplican. Para los suscriptores de la UE, la ley de Luxemburgo aplica. “Sin embargo, cuando las leyes de Luxemburgo proporcionan un menor grado de protección de los consumidores que las leyes de su país de residencia, las leyes de protección al consumidor de su país prevalecerán.”."
   }
 }

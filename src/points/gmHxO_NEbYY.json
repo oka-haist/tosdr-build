@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/end-user-agreement/"
   },
-  "title": "Spotify price changes take effect immediately",
+  "title": "Cambios en los precios de Spotify surten efecto inmediatamente",
   "topics": [
     "changes-notice"
   ],
@@ -24,6 +24,6 @@
     "case": "user is notified on the day",
     "point": "neutral",
     "score": 0,
-    "tldr": "Spotify warns you if there is a change in the price of  subscription, but that change is implemented immediately, without delay. This means that if they change the price they day before your renewal, you will be charged the new price."
+    "tldr": "Spotify te avisa si hay un cambio en el precio de la suscripción, pero que el cambio se lleva a cabo de inmediato, sin demora. Esto significa que si cambian el precio días antes de tu renovación, se te cobrará el nuevo precio."
   }
 }

@@ -15,7 +15,7 @@
   "source": {
     "terms": "https://www.spotify.com/us/legal/privacy-policy/"
   },
-  "title": "Spotify doesn't guarantee data security",
+  "title": "Spotify no garantiza la seguridad de datos",
   "topics": [
     "personal information"
   ],
@@ -23,6 +23,6 @@
     "binding": true,
     "point": "neutral",
     "score": 30,
-    "tldr": "Although Spotify states they are committed to data security, the also state that they cannot guarantee any success in that area."
+    "tldr": "Aunque Spotify afirma que están comprometidos con la seguridad de los datos, también establecen que no pueden garantizar ningún éxito en esa área."
   }
 }
