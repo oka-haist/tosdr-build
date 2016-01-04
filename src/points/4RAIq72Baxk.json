@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.grammarly.com/terms"
   },
-  "title": "Grammarly doesn't list pricing packages without signing up",
+  "title": "Grammarly no muestra paquetes de precios sin tener qeu registrarte",
   "topics": [
     "user-info"
   ],
@@ -24,6 +24,6 @@
     "case": "no pricing info given before you sign up",
     "point": "bad",
     "score": 20,
-    "tldr": "You must sign up for Grammarly's service in order to learn what the different pricing packages are. However, pricing packages as of 15 March 2012 are listed in a support document at: http://support.grammarly.com/entries/21138022-current-grammarly-subscription-plans."
+    "tldr": "Usted debe registrarse parael servicio de Grammarly con el fin de saber los distintos paquetes de precios. Sin embargo, los paqutes de precios desde el 15 de Marzo del 2012 estan listados en un documento de soporte en: http://support.grammarly.com/entries/21138022-current-grammarly-subscription-plans."
   }
 }

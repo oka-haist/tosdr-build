@@ -4,7 +4,7 @@
   "services": [
     "tumblr"
   ],
-  "title": "Tumblr provides access to previous TOS and privacy policy",
+  "title": "Tumblr proporciona acceso a TOS anteriores y política de privacidad",
   "topics": [
     "readability"
   ],
@@ -13,6 +13,6 @@
     "case": "archives provided",
     "point": "good",
     "score": 50,
-    "tldr": "They provide transparency on how the current policies differ from earlier versions, and when they changed."
+    "tldr": "Ofrecen transparencia sobre como las políticas actuales difieren de las versiones anteriores, y cuando cambiaron."
   }
 }

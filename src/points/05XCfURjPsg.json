@@ -4,7 +4,7 @@
   "services": [
     "tumblr"
   ],
-  "title": "Tumblr has provisions for users outside the US",
+  "title": "Tumblr provee a los usuarios fuera de los US",
   "topics": [
     "jurisdiction-law"
   ],
@@ -13,6 +13,6 @@
     "case": "court of law is in location X",
     "point": "neutral",
     "score": 0,
-    "tldr": "Your data is stored in the US, and people from a country embargoed by the United States cannot use premium themes."
+    "tldr": "Sus datos de guardan en los US, y la gente de un pais embargado por los US no puede utilizar los temas de primera premium."
   }
 }

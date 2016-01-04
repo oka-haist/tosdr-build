@@ -15,7 +15,7 @@
   "source": {
     "terms": "http://www.grammarly.com/terms"
   },
-  "title": "Grammarly usage restrictions",
+  "title": "Grammarly restricciones de uso",
   "topics": [
     "guarantee"
   ],
@@ -24,6 +24,6 @@
     "case": "your use is throttled",
     "point": "bad",
     "score": 30,
-    "tldr": "Grammarly restricts your use to 100 documents/50,000 words within a 24-hr period and 300 documents/150,000 words per month."
+    "tldr": "Grammarly restringue su uso a 100 documentos/50.000 palabras dentro de un periodo de 24h y 300 documentos / 150.000 palabras por mes."
   }
 }

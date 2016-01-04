@@ -16,7 +16,7 @@
     "faq": "",
     "terms": ""
   },
-  "title": "App.net does not take responsibility for what its users post",
+  "title": "App.net no asume la responsabilidad de las publicaciones de los usuarios.",
   "topics": [
     "governance"
   ],
@@ -25,6 +25,6 @@
     "case": "you are responsible for what you publish",
     "point": "neutral",
     "score": 10,
-    "tldr": "Whether on App.Net, or on website that have an inbound or outbound hyperlink with out."
+    "tldr": "Tanto en App.Net, o en la página web que tiene un enlace entrante o saliente con el exterior."
   }
 }
