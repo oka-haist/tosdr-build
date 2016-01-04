@@ -4,7 +4,7 @@
   "services": [
     "delicious"
   ],
-  "title": "[bad] Delicious nuevos términos 5. Servicios de terceros tienen acceso a información personal",
+  "title": "[Delicious nuevos términos] Servicios de terceros tienen acceso a información personal",
   "topics": [
     "third"
   ],
@@ -13,6 +13,6 @@
     "case": "Terceros están ligados por la leyes de confidencialidad",
     "point": "good",
     "score": 20,
-    "tldr": "Terceros tiene acceso a tu información personal sólo para realizar cierta tarea de parte de Delicious y están obligados a no revelar o usarla para algún propósito."
+    "tldr": "Terceros tiene acceso a tu información personal sólo para realizar ciertas tareas por parte de Delicious y están obligados a no revelarla o usarla para ningún propósito."
   }
 }

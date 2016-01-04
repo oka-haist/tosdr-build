@@ -6,7 +6,7 @@
     "delicious"
   ],
   "source": "http://www.delicious.com/terms",
-  "title": "Copyright muy amplia de tu contenido, incluye el derecho de Delicious para que distribuya por cualquier medio",
+  "title": "Licencia de Copyright de tu contenido demasiado amplia, incluye el derecho de Delicious distribuir por cualquier medio",
   "topics": [
     "copyright-scope"
   ],
@@ -15,6 +15,6 @@
     "case": "broad license including right to distribute through any media",
     "point": "bad",
     "score": 100,
-    "tldr": "The copyright license granted to Delicious is not limited to operating the service. Your content can be exploited “in any and all media or distribution channels (now known or hereafter created)” i.e. it can be distributed by Delicious outside the Delicious service."
+    "tldr": "La licencia de copyright concedida a Delicious no esta limitada a la operatividad del servicio. Tu contenido puede ser explotado “por algunos o todos los medios y canales de distribucion (conocidos o por crear)” i.e. puede ser distribuido por Delicious fuera del servicio de Delicious."
   }
 }
